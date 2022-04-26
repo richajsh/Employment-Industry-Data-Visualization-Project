@@ -1,0 +1,2080 @@
+Year,Region,NAICS Code,Industry,Jobs
+2020,Capital Region,11,"Agriculture, Forestry, Fishing and Hunting",2664
+2020,Capital Region,21,"Mining, Quarrying, and Oil and Gas Extraction",1060
+2020,Capital Region,22,Utilities,1953
+2020,Capital Region,23,Construction,21130
+2020,Capital Region,31-33,Manufacturing,33109
+2020,Capital Region,42,Wholesale Trade,14516
+2020,Capital Region,44-45,Retail Trade,52739
+2020,Capital Region,48-49,Transportation and Warehousing,12544
+2020,Capital Region,51,Information,8598
+2020,Capital Region,52,Finance and Insurance,21470
+2020,Capital Region,53,Real Estate and Rental and Leasing,6083
+2020,Capital Region,54,"Professional, Scientific, and Technical Services",31314
+2020,Capital Region,55,Management of Companies and Enterprises,7043
+2020,Capital Region,56,Administrative and Support and Waste Management and Remediation Services,18961
+2020,Capital Region,61,Educational Services,17658
+2020,Capital Region,62,Health Care and Social Assistance,74790
+2020,Capital Region,71,"Arts, Entertainment, and Recreation",4979
+2020,Capital Region,72,Accommodation and Food Services,32124
+2020,Capital Region,81,Other Services (except Public Administration),15857
+2020,Capital Region,90,Government,108852
+2020,Capital Region,99,Unclassified Industry,532
+2020,Central New York,11,"Agriculture, Forestry, Fishing and Hunting",2760
+2020,Central New York,21,"Mining, Quarrying, and Oil and Gas Extraction",226
+2020,Central New York,22,Utilities,4156
+2020,Central New York,23,Construction,13463
+2020,Central New York,31-33,Manufacturing,29705
+2020,Central New York,42,Wholesale Trade,12156
+2020,Central New York,44-45,Retail Trade,35652
+2020,Central New York,48-49,Transportation and Warehousing,9926
+2020,Central New York,51,Information,3823
+2020,Central New York,52,Finance and Insurance,10560
+2020,Central New York,53,Real Estate and Rental and Leasing,3781
+2020,Central New York,54,"Professional, Scientific, and Technical Services",16479
+2020,Central New York,55,Management of Companies and Enterprises,4754
+2020,Central New York,56,Administrative and Support and Waste Management and Remediation Services,13926
+2020,Central New York,61,Educational Services,12239
+2020,Central New York,62,Health Care and Social Assistance,47576
+2020,Central New York,71,"Arts, Entertainment, and Recreation",3093
+2020,Central New York,72,Accommodation and Food Services,21941
+2020,Central New York,81,Other Services (except Public Administration),10104
+2020,Central New York,90,Government,60883
+2020,Central New York,99,Unclassified Industry,278
+2020,Finger Lakes,11,"Agriculture, Forestry, Fishing and Hunting",6421
+2020,Finger Lakes,21,"Mining, Quarrying, and Oil and Gas Extraction",676
+2020,Finger Lakes,22,Utilities,1693
+2020,Finger Lakes,23,Construction,21337
+2020,Finger Lakes,31-33,Manufacturing,60486
+2020,Finger Lakes,42,Wholesale Trade,16319
+2020,Finger Lakes,44-45,Retail Trade,54931
+2020,Finger Lakes,48-49,Transportation and Warehousing,11196
+2020,Finger Lakes,51,Information,6607
+2020,Finger Lakes,52,Finance and Insurance,15111
+2020,Finger Lakes,53,Real Estate and Rental and Leasing,6821
+2020,Finger Lakes,54,"Professional, Scientific, and Technical Services",26534
+2020,Finger Lakes,55,Management of Companies and Enterprises,9734
+2020,Finger Lakes,56,Administrative and Support and Waste Management and Remediation Services,26229
+2020,Finger Lakes,61,Educational Services,27786
+2020,Finger Lakes,62,Health Care and Social Assistance,85041
+2020,Finger Lakes,71,"Arts, Entertainment, and Recreation",5790
+2020,Finger Lakes,72,Accommodation and Food Services,32458
+2020,Finger Lakes,81,Other Services (except Public Administration),14831
+2020,Finger Lakes,90,Government,81247
+2020,Finger Lakes,99,Unclassified Industry,559
+2020,Long Island,11,"Agriculture, Forestry, Fishing and Hunting",2645
+2020,Long Island,21,"Mining, Quarrying, and Oil and Gas Extraction",170
+2020,Long Island,22,Utilities,4549
+2020,Long Island,23,Construction,72445
+2020,Long Island,31-33,Manufacturing,64890
+2020,Long Island,42,Wholesale Trade,56451
+2020,Long Island,44-45,Retail Trade,136374
+2020,Long Island,48-49,Transportation and Warehousing,32518
+2020,Long Island,51,Information,13908
+2020,Long Island,52,Finance and Insurance,47618
+2020,Long Island,53,Real Estate and Rental and Leasing,16760
+2020,Long Island,54,"Professional, Scientific, and Technical Services",71640
+2020,Long Island,55,Management of Companies and Enterprises,12865
+2020,Long Island,56,Administrative and Support and Waste Management and Remediation Services,65736
+2020,Long Island,61,Educational Services,24953
+2020,Long Island,62,Health Care and Social Assistance,222945
+2020,Long Island,71,"Arts, Entertainment, and Recreation",15589
+2020,Long Island,72,Accommodation and Food Services,80441
+2020,Long Island,81,Other Services (except Public Administration),45005
+2020,Long Island,90,Government,175063
+2020,Long Island,99,Unclassified Industry,3622
+2020,Mid-Hudson,11,"Agriculture, Forestry, Fishing and Hunting",3634
+2020,Mid-Hudson,21,"Mining, Quarrying, and Oil and Gas Extraction",592
+2020,Mid-Hudson,22,Utilities,5279
+2020,Mid-Hudson,23,Construction,50596
+2020,Mid-Hudson,31-33,Manufacturing,40298
+2020,Mid-Hudson,42,Wholesale Trade,29019
+2020,Mid-Hudson,44-45,Retail Trade,100785
+2020,Mid-Hudson,48-49,Transportation and Warehousing,22621
+2020,Mid-Hudson,51,Information,13187
+2020,Mid-Hudson,52,Finance and Insurance,27259
+2020,Mid-Hudson,53,Real Estate and Rental and Leasing,15610
+2020,Mid-Hudson,54,"Professional, Scientific, and Technical Services",44470
+2020,Mid-Hudson,55,Management of Companies and Enterprises,12374
+2020,Mid-Hudson,56,Administrative and Support and Waste Management and Remediation Services,45321
+2020,Mid-Hudson,61,Educational Services,30928
+2020,Mid-Hudson,62,Health Care and Social Assistance,160382
+2020,Mid-Hudson,71,"Arts, Entertainment, and Recreation",12385
+2020,Mid-Hudson,72,Accommodation and Food Services,55239
+2020,Mid-Hudson,81,Other Services (except Public Administration),35128
+2020,Mid-Hudson,90,Government,141536
+2020,Mid-Hudson,99,Unclassified Industry,2316
+2020,Mohawk Valley,11,"Agriculture, Forestry, Fishing and Hunting",956
+2020,Mohawk Valley,21,"Mining, Quarrying, and Oil and Gas Extraction",317
+2020,Mohawk Valley,22,Utilities,477
+2020,Mohawk Valley,23,Construction,4840
+2020,Mohawk Valley,31-33,Manufacturing,15674
+2020,Mohawk Valley,42,Wholesale Trade,3835
+2020,Mohawk Valley,44-45,Retail Trade,21258
+2020,Mohawk Valley,48-49,Transportation and Warehousing,7639
+2020,Mohawk Valley,51,Information,1409
+2020,Mohawk Valley,52,Finance and Insurance,8005
+2020,Mohawk Valley,53,Real Estate and Rental and Leasing,977
+2020,Mohawk Valley,54,"Professional, Scientific, and Technical Services",4812
+2020,Mohawk Valley,55,Management of Companies and Enterprises,962
+2020,Mohawk Valley,56,Administrative and Support and Waste Management and Remediation Services,3928
+2020,Mohawk Valley,61,Educational Services,3654
+2020,Mohawk Valley,62,Health Care and Social Assistance,36419
+2020,Mohawk Valley,71,"Arts, Entertainment, and Recreation",1683
+2020,Mohawk Valley,72,Accommodation and Food Services,11539
+2020,Mohawk Valley,81,Other Services (except Public Administration),4825
+2020,Mohawk Valley,90,Government,40791
+2020,Mohawk Valley,99,Unclassified Industry,167
+2020,"New York, area not reported",11,"Agriculture, Forestry, Fishing and Hunting",138
+2020,"New York, area not reported",21,"Mining, Quarrying, and Oil and Gas Extraction",15
+2020,"New York, area not reported",22,Utilities,419
+2020,"New York, area not reported",23,Construction,8765
+2020,"New York, area not reported",31-33,Manufacturing,1448
+2020,"New York, area not reported",42,Wholesale Trade,19610
+2020,"New York, area not reported",44-45,Retail Trade,4429
+2020,"New York, area not reported",48-49,Transportation and Warehousing,1670
+2020,"New York, area not reported",51,Information,7759
+2020,"New York, area not reported",52,Finance and Insurance,9646
+2020,"New York, area not reported",53,Real Estate and Rental and Leasing,1736
+2020,"New York, area not reported",54,"Professional, Scientific, and Technical Services",22449
+2020,"New York, area not reported",55,Management of Companies and Enterprises,4243
+2020,"New York, area not reported",56,Administrative and Support and Waste Management and Remediation Services,27949
+2020,"New York, area not reported",61,Educational Services,2104
+2020,"New York, area not reported",62,Health Care and Social Assistance,7910
+2020,"New York, area not reported",71,"Arts, Entertainment, and Recreation",866
+2020,"New York, area not reported",72,Accommodation and Food Services,1795
+2020,"New York, area not reported",81,Other Services (except Public Administration),3999
+2020,"New York, area not reported",90,Government,2117
+2020,"New York, area not reported",99,Unclassified Industry,6205
+2020,New York City,11,"Agriculture, Forestry, Fishing and Hunting",455
+2020,New York City,21,"Mining, Quarrying, and Oil and Gas Extraction",86
+2020,New York City,22,Utilities,14397
+2020,New York City,23,Construction,134984
+2020,New York City,31-33,Manufacturing,52658
+2020,New York City,42,Wholesale Trade,114301
+2020,New York City,44-45,Retail Trade,284196
+2020,New York City,48-49,Transportation and Warehousing,111830
+2020,New York City,51,Information,201500
+2020,New York City,52,Finance and Insurance,333646
+2020,New York City,53,Real Estate and Rental and Leasing,126360
+2020,New York City,54,"Professional, Scientific, and Technical Services",403958
+2020,New York City,55,Management of Companies and Enterprises,63432
+2020,New York City,56,Administrative and Support and Waste Management and Remediation Services,210611
+2020,New York City,61,Educational Services,174914
+2020,New York City,62,Health Care and Social Assistance,761860
+2020,New York City,71,"Arts, Entertainment, and Recreation",57602
+2020,New York City,72,Accommodation and Food Services,215358
+2020,New York City,81,Other Services (except Public Administration),146022
+2020,New York City,90,Government,576216
+2020,New York City,99,Unclassified Industry,10740
+2020,North Country,11,"Agriculture, Forestry, Fishing and Hunting",2657
+2020,North Country,21,"Mining, Quarrying, and Oil and Gas Extraction",260
+2020,North Country,22,Utilities,577
+2020,North Country,23,Construction,5506
+2020,North Country,31-33,Manufacturing,9137
+2020,North Country,42,Wholesale Trade,2369
+2020,North Country,44-45,Retail Trade,18976
+2020,North Country,48-49,Transportation and Warehousing,3220
+2020,North Country,51,Information,1412
+2020,North Country,52,Finance and Insurance,2336
+2020,North Country,53,Real Estate and Rental and Leasing,1306
+2020,North Country,54,"Professional, Scientific, and Technical Services",2946
+2020,North Country,55,Management of Companies and Enterprises,1083
+2020,North Country,56,Administrative and Support and Waste Management and Remediation Services,3029
+2020,North Country,61,Educational Services,3185
+2020,North Country,62,Health Care and Social Assistance,23007
+2020,North Country,71,"Arts, Entertainment, and Recreation",1177
+2020,North Country,72,Accommodation and Food Services,11006
+2020,North Country,81,Other Services (except Public Administration),3804
+2020,North Country,90,Government,42158
+2020,North Country,99,Unclassified Industry,113
+2020,Southern Tier,11,"Agriculture, Forestry, Fishing and Hunting",1813
+2020,Southern Tier,21,"Mining, Quarrying, and Oil and Gas Extraction",717
+2020,Southern Tier,22,Utilities,1289
+2020,Southern Tier,23,Construction,7447
+2020,Southern Tier,31-33,Manufacturing,30748
+2020,Southern Tier,42,Wholesale Trade,5749
+2020,Southern Tier,44-45,Retail Trade,26947
+2020,Southern Tier,48-49,Transportation and Warehousing,5320
+2020,Southern Tier,51,Information,3136
+2020,Southern Tier,52,Finance and Insurance,6359
+2020,Southern Tier,53,Real Estate and Rental and Leasing,2067
+2020,Southern Tier,54,"Professional, Scientific, and Technical Services",10041
+2020,Southern Tier,55,Management of Companies and Enterprises,2709
+2020,Southern Tier,56,Administrative and Support and Waste Management and Remediation Services,6605
+2020,Southern Tier,61,Educational Services,16480
+2020,Southern Tier,62,Health Care and Social Assistance,36719
+2020,Southern Tier,71,"Arts, Entertainment, and Recreation",1903
+2020,Southern Tier,72,Accommodation and Food Services,15942
+2020,Southern Tier,81,Other Services (except Public Administration),7430
+2020,Southern Tier,90,Government,46866
+2020,Southern Tier,99,Unclassified Industry,211
+2020,Western New York,11,"Agriculture, Forestry, Fishing and Hunting",2566
+2020,Western New York,21,"Mining, Quarrying, and Oil and Gas Extraction",384
+2020,Western New York,22,Utilities,1400
+2020,Western New York,23,Construction,21309
+2020,Western New York,31-33,Manufacturing,61182
+2020,Western New York,42,Wholesale Trade,20160
+2020,Western New York,44-45,Retail Trade,63668
+2020,Western New York,48-49,Transportation and Warehousing,17635
+2020,Western New York,51,Information,6410
+2020,Western New York,52,Finance and Insurance,29322
+2020,Western New York,53,Real Estate and Rental and Leasing,7198
+2020,Western New York,54,"Professional, Scientific, and Technical Services",27531
+2020,Western New York,55,Management of Companies and Enterprises,12280
+2020,Western New York,56,Administrative and Support and Waste Management and Remediation Services,26522
+2020,Western New York,61,Educational Services,15331
+2020,Western New York,62,Health Care and Social Assistance,86643
+2020,Western New York,71,"Arts, Entertainment, and Recreation",6225
+2020,Western New York,72,Accommodation and Food Services,43625
+2020,Western New York,81,Other Services (except Public Administration),20021
+2020,Western New York,90,Government,102419
+2020,Western New York,99,Unclassified Industry,608
+2019,Capital Region,11,"Agriculture, Forestry, Fishing and Hunting",2736
+2019,Capital Region,21,"Mining, Quarrying, and Oil and Gas Extraction",1063
+2019,Capital Region,22,Utilities,1945
+2019,Capital Region,23,Construction,21993
+2019,Capital Region,31-33,Manufacturing,34137
+2019,Capital Region,42,Wholesale Trade,15256
+2019,Capital Region,44-45,Retail Trade,56946
+2019,Capital Region,48-49,Transportation and Warehousing,12930
+2019,Capital Region,51,Information,8964
+2019,Capital Region,52,Finance and Insurance,21915
+2019,Capital Region,53,Real Estate and Rental and Leasing,6645
+2019,Capital Region,54,"Professional, Scientific, and Technical Services",32370
+2019,Capital Region,55,Management of Companies and Enterprises,7221
+2019,Capital Region,56,Administrative and Support and Waste Management and Remediation Services,20960
+2019,Capital Region,61,Educational Services,19609
+2019,Capital Region,62,Health Care and Social Assistance,78673
+2019,Capital Region,71,"Arts, Entertainment, and Recreation",7899
+2019,Capital Region,72,Accommodation and Food Services,44296
+2019,Capital Region,81,Other Services (except Public Administration),19396
+2019,Capital Region,90,Government,113581
+2019,Capital Region,99,Unclassified Industry,666
+2019,Central New York,11,"Agriculture, Forestry, Fishing and Hunting",2644
+2019,Central New York,21,"Mining, Quarrying, and Oil and Gas Extraction",228
+2019,Central New York,22,Utilities,3977
+2019,Central New York,23,Construction,14254
+2019,Central New York,31-33,Manufacturing,31255
+2019,Central New York,42,Wholesale Trade,13556
+2019,Central New York,44-45,Retail Trade,38585
+2019,Central New York,48-49,Transportation and Warehousing,10309
+2019,Central New York,51,Information,4461
+2019,Central New York,52,Finance and Insurance,10587
+2019,Central New York,53,Real Estate and Rental and Leasing,4080
+2019,Central New York,54,"Professional, Scientific, and Technical Services",16966
+2019,Central New York,55,Management of Companies and Enterprises,4721
+2019,Central New York,56,Administrative and Support and Waste Management and Remediation Services,15391
+2019,Central New York,61,Educational Services,13206
+2019,Central New York,62,Health Care and Social Assistance,51897
+2019,Central New York,71,"Arts, Entertainment, and Recreation",5323
+2019,Central New York,72,Accommodation and Food Services,29238
+2019,Central New York,81,Other Services (except Public Administration),11888
+2019,Central New York,90,Government,64175
+2019,Central New York,99,Unclassified Industry,312
+2019,Finger Lakes,11,"Agriculture, Forestry, Fishing and Hunting",6789
+2019,Finger Lakes,21,"Mining, Quarrying, and Oil and Gas Extraction",715
+2019,Finger Lakes,22,Utilities,1698
+2019,Finger Lakes,23,Construction,22869
+2019,Finger Lakes,31-33,Manufacturing,63923
+2019,Finger Lakes,42,Wholesale Trade,17269
+2019,Finger Lakes,44-45,Retail Trade,59192
+2019,Finger Lakes,48-49,Transportation and Warehousing,11462
+2019,Finger Lakes,51,Information,7770
+2019,Finger Lakes,52,Finance and Insurance,15349
+2019,Finger Lakes,53,Real Estate and Rental and Leasing,7468
+2019,Finger Lakes,54,"Professional, Scientific, and Technical Services",28073
+2019,Finger Lakes,55,Management of Companies and Enterprises,10242
+2019,Finger Lakes,56,Administrative and Support and Waste Management and Remediation Services,30318
+2019,Finger Lakes,61,Educational Services,30424
+2019,Finger Lakes,62,Health Care and Social Assistance,89888
+2019,Finger Lakes,71,"Arts, Entertainment, and Recreation",9708
+2019,Finger Lakes,72,Accommodation and Food Services,42984
+2019,Finger Lakes,81,Other Services (except Public Administration),17502
+2019,Finger Lakes,90,Government,87268
+2019,Finger Lakes,99,Unclassified Industry,579
+2019,Long Island,11,"Agriculture, Forestry, Fishing and Hunting",2796
+2019,Long Island,21,"Mining, Quarrying, and Oil and Gas Extraction",218
+2019,Long Island,22,Utilities,4605
+2019,Long Island,23,Construction,81450
+2019,Long Island,31-33,Manufacturing,70267
+2019,Long Island,42,Wholesale Trade,62496
+2019,Long Island,44-45,Retail Trade,157001
+2019,Long Island,48-49,Transportation and Warehousing,36759
+2019,Long Island,51,Information,15119
+2019,Long Island,52,Finance and Insurance,48730
+2019,Long Island,53,Real Estate and Rental and Leasing,17892
+2019,Long Island,54,"Professional, Scientific, and Technical Services",76000
+2019,Long Island,55,Management of Companies and Enterprises,13852
+2019,Long Island,56,Administrative and Support and Waste Management and Remediation Services,73218
+2019,Long Island,61,Educational Services,30433
+2019,Long Island,62,Health Care and Social Assistance,236973
+2019,Long Island,71,"Arts, Entertainment, and Recreation",23889
+2019,Long Island,72,Accommodation and Food Services,103812
+2019,Long Island,81,Other Services (except Public Administration),55631
+2019,Long Island,90,Government,182799
+2019,Long Island,99,Unclassified Industry,4083
+2019,Mid-Hudson,11,"Agriculture, Forestry, Fishing and Hunting",3765
+2019,Mid-Hudson,21,"Mining, Quarrying, and Oil and Gas Extraction",675
+2019,Mid-Hudson,22,Utilities,5437
+2019,Mid-Hudson,23,Construction,56432
+2019,Mid-Hudson,31-33,Manufacturing,43180
+2019,Mid-Hudson,42,Wholesale Trade,30772
+2019,Mid-Hudson,44-45,Retail Trade,112205
+2019,Mid-Hudson,48-49,Transportation and Warehousing,27069
+2019,Mid-Hudson,51,Information,14431
+2019,Mid-Hudson,52,Finance and Insurance,27968
+2019,Mid-Hudson,53,Real Estate and Rental and Leasing,16766
+2019,Mid-Hudson,54,"Professional, Scientific, and Technical Services",46356
+2019,Mid-Hudson,55,Management of Companies and Enterprises,12826
+2019,Mid-Hudson,56,Administrative and Support and Waste Management and Remediation Services,50727
+2019,Mid-Hudson,61,Educational Services,34989
+2019,Mid-Hudson,62,Health Care and Social Assistance,170716
+2019,Mid-Hudson,71,"Arts, Entertainment, and Recreation",19636
+2019,Mid-Hudson,72,Accommodation and Food Services,74874
+2019,Mid-Hudson,81,Other Services (except Public Administration),41721
+2019,Mid-Hudson,90,Government,147787
+2019,Mid-Hudson,99,Unclassified Industry,2515
+2019,Mohawk Valley,11,"Agriculture, Forestry, Fishing and Hunting",828
+2019,Mohawk Valley,21,"Mining, Quarrying, and Oil and Gas Extraction",323
+2019,Mohawk Valley,22,Utilities,518
+2019,Mohawk Valley,23,Construction,5036
+2019,Mohawk Valley,31-33,Manufacturing,17799
+2019,Mohawk Valley,42,Wholesale Trade,4317
+2019,Mohawk Valley,44-45,Retail Trade,22263
+2019,Mohawk Valley,48-49,Transportation and Warehousing,8091
+2019,Mohawk Valley,51,Information,1648
+2019,Mohawk Valley,52,Finance and Insurance,8112
+2019,Mohawk Valley,53,Real Estate and Rental and Leasing,1172
+2019,Mohawk Valley,54,"Professional, Scientific, and Technical Services",4922
+2019,Mohawk Valley,55,Management of Companies and Enterprises,1015
+2019,Mohawk Valley,56,Administrative and Support and Waste Management and Remediation Services,4408
+2019,Mohawk Valley,61,Educational Services,4187
+2019,Mohawk Valley,62,Health Care and Social Assistance,39204
+2019,Mohawk Valley,71,"Arts, Entertainment, and Recreation",2614
+2019,Mohawk Valley,72,Accommodation and Food Services,15522
+2019,Mohawk Valley,81,Other Services (except Public Administration),5641
+2019,Mohawk Valley,90,Government,43642
+2019,Mohawk Valley,99,Unclassified Industry,175
+2019,"New York, area not reported",11,"Agriculture, Forestry, Fishing and Hunting",163
+2019,"New York, area not reported",21,"Mining, Quarrying, and Oil and Gas Extraction",27
+2019,"New York, area not reported",22,Utilities,354
+2019,"New York, area not reported",23,Construction,9656
+2019,"New York, area not reported",31-33,Manufacturing,1133
+2019,"New York, area not reported",42,Wholesale Trade,20198
+2019,"New York, area not reported",44-45,Retail Trade,4851
+2019,"New York, area not reported",48-49,Transportation and Warehousing,1948
+2019,"New York, area not reported",51,Information,8818
+2019,"New York, area not reported",52,Finance and Insurance,7884
+2019,"New York, area not reported",53,Real Estate and Rental and Leasing,1302
+2019,"New York, area not reported",54,"Professional, Scientific, and Technical Services",24681
+2019,"New York, area not reported",55,Management of Companies and Enterprises,4365
+2019,"New York, area not reported",56,Administrative and Support and Waste Management and Remediation Services,28581
+2019,"New York, area not reported",61,Educational Services,2268
+2019,"New York, area not reported",62,Health Care and Social Assistance,7649
+2019,"New York, area not reported",71,"Arts, Entertainment, and Recreation",1280
+2019,"New York, area not reported",72,Accommodation and Food Services,2060
+2019,"New York, area not reported",81,Other Services (except Public Administration),3914
+2019,"New York, area not reported",90,Government,2548
+2019,"New York, area not reported",99,Unclassified Industry,4332
+2019,New York City,11,"Agriculture, Forestry, Fishing and Hunting",411
+2019,New York City,21,"Mining, Quarrying, and Oil and Gas Extraction",86
+2019,New York City,22,Utilities,15030
+2019,New York City,23,Construction,156852
+2019,New York City,31-33,Manufacturing,66583
+2019,New York City,42,Wholesale Trade,131589
+2019,New York City,44-45,Retail Trade,344523
+2019,New York City,48-49,Transportation and Warehousing,131128
+2019,New York City,51,Information,203766
+2019,New York City,52,Finance and Insurance,339244
+2019,New York City,53,Real Estate and Rental and Leasing,134819
+2019,New York City,54,"Professional, Scientific, and Technical Services",413441
+2019,New York City,55,Management of Companies and Enterprises,73260
+2019,New York City,56,Administrative and Support and Waste Management and Remediation Services,273544
+2019,New York City,61,Educational Services,186751
+2019,New York City,62,Health Care and Social Assistance,791798
+2019,New York City,71,"Arts, Entertainment, and Recreation",93485
+2019,New York City,72,Accommodation and Food Services,370497
+2019,New York City,81,Other Services (except Public Administration),177954
+2019,New York City,90,Government,576362
+2019,New York City,99,Unclassified Industry,11609
+2019,North Country,11,"Agriculture, Forestry, Fishing and Hunting",2721
+2019,North Country,21,"Mining, Quarrying, and Oil and Gas Extraction",257
+2019,North Country,22,Utilities,553
+2019,North Country,23,Construction,5808
+2019,North Country,31-33,Manufacturing,10177
+2019,North Country,42,Wholesale Trade,2612
+2019,North Country,44-45,Retail Trade,20011
+2019,North Country,48-49,Transportation and Warehousing,3448
+2019,North Country,51,Information,1677
+2019,North Country,52,Finance and Insurance,2386
+2019,North Country,53,Real Estate and Rental and Leasing,1470
+2019,North Country,54,"Professional, Scientific, and Technical Services",2971
+2019,North Country,55,Management of Companies and Enterprises,1120
+2019,North Country,56,Administrative and Support and Waste Management and Remediation Services,3439
+2019,North Country,61,Educational Services,3193
+2019,North Country,62,Health Care and Social Assistance,24301
+2019,North Country,71,"Arts, Entertainment, and Recreation",1674
+2019,North Country,72,Accommodation and Food Services,14321
+2019,North Country,81,Other Services (except Public Administration),4492
+2019,North Country,90,Government,44814
+2019,North Country,99,Unclassified Industry,130
+2019,Southern Tier,11,"Agriculture, Forestry, Fishing and Hunting",1795
+2019,Southern Tier,21,"Mining, Quarrying, and Oil and Gas Extraction",684
+2019,Southern Tier,22,Utilities,1366
+2019,Southern Tier,23,Construction,8135
+2019,Southern Tier,31-33,Manufacturing,32972
+2019,Southern Tier,42,Wholesale Trade,6564
+2019,Southern Tier,44-45,Retail Trade,28560
+2019,Southern Tier,48-49,Transportation and Warehousing,5318
+2019,Southern Tier,51,Information,3383
+2019,Southern Tier,52,Finance and Insurance,6525
+2019,Southern Tier,53,Real Estate and Rental and Leasing,2671
+2019,Southern Tier,54,"Professional, Scientific, and Technical Services",10348
+2019,Southern Tier,55,Management of Companies and Enterprises,2887
+2019,Southern Tier,56,Administrative and Support and Waste Management and Remediation Services,7874
+2019,Southern Tier,61,Educational Services,16577
+2019,Southern Tier,62,Health Care and Social Assistance,38560
+2019,Southern Tier,71,"Arts, Entertainment, and Recreation",2931
+2019,Southern Tier,72,Accommodation and Food Services,21686
+2019,Southern Tier,81,Other Services (except Public Administration),8627
+2019,Southern Tier,90,Government,49988
+2019,Southern Tier,99,Unclassified Industry,239
+2019,Western New York,11,"Agriculture, Forestry, Fishing and Hunting",2445
+2019,Western New York,21,"Mining, Quarrying, and Oil and Gas Extraction",419
+2019,Western New York,22,Utilities,1546
+2019,Western New York,23,Construction,23165
+2019,Western New York,31-33,Manufacturing,65615
+2019,Western New York,42,Wholesale Trade,21340
+2019,Western New York,44-45,Retail Trade,69580
+2019,Western New York,48-49,Transportation and Warehousing,18816
+2019,Western New York,51,Information,7372
+2019,Western New York,52,Finance and Insurance,29904
+2019,Western New York,53,Real Estate and Rental and Leasing,7930
+2019,Western New York,54,"Professional, Scientific, and Technical Services",29132
+2019,Western New York,55,Management of Companies and Enterprises,13857
+2019,Western New York,56,Administrative and Support and Waste Management and Remediation Services,29864
+2019,Western New York,61,Educational Services,16933
+2019,Western New York,62,Health Care and Social Assistance,93266
+2019,Western New York,71,"Arts, Entertainment, and Recreation",10265
+2019,Western New York,72,Accommodation and Food Services,59901
+2019,Western New York,81,Other Services (except Public Administration),24450
+2019,Western New York,90,Government,108368
+2019,Western New York,99,Unclassified Industry,675
+2018,Capital Region,11,"Agriculture, Forestry, Fishing and Hunting",2603
+2018,Capital Region,21,"Mining, Quarrying, and Oil and Gas Extraction",1018
+2018,Capital Region,22,Utilities,1973
+2018,Capital Region,23,Construction,21725
+2018,Capital Region,31-33,Manufacturing,34642
+2018,Capital Region,42,Wholesale Trade,14625
+2018,Capital Region,44-45,Retail Trade,57710
+2018,Capital Region,48-49,Transportation and Warehousing,12991
+2018,Capital Region,51,Information,9499
+2018,Capital Region,52,Finance and Insurance,21594
+2018,Capital Region,53,Real Estate and Rental and Leasing,6517
+2018,Capital Region,54,"Professional, Scientific, and Technical Services",31703
+2018,Capital Region,55,Management of Companies and Enterprises,7282
+2018,Capital Region,56,Administrative and Support and Waste Management and Remediation Services,21341
+2018,Capital Region,61,Educational Services,19111
+2018,Capital Region,62,Health Care and Social Assistance,79541
+2018,Capital Region,71,"Arts, Entertainment, and Recreation",7859
+2018,Capital Region,72,Accommodation and Food Services,44778
+2018,Capital Region,81,Other Services (except Public Administration),19440
+2018,Capital Region,90,Government,113002
+2018,Capital Region,99,Unclassified Industry,443
+2018,Central New York,11,"Agriculture, Forestry, Fishing and Hunting",2653
+2018,Central New York,21,"Mining, Quarrying, and Oil and Gas Extraction",192
+2018,Central New York,22,Utilities,3951
+2018,Central New York,23,Construction,14490
+2018,Central New York,31-33,Manufacturing,30871
+2018,Central New York,42,Wholesale Trade,13782
+2018,Central New York,44-45,Retail Trade,39844
+2018,Central New York,48-49,Transportation and Warehousing,10204
+2018,Central New York,51,Information,4662
+2018,Central New York,52,Finance and Insurance,10733
+2018,Central New York,53,Real Estate and Rental and Leasing,4101
+2018,Central New York,54,"Professional, Scientific, and Technical Services",16983
+2018,Central New York,55,Management of Companies and Enterprises,4778
+2018,Central New York,56,Administrative and Support and Waste Management and Remediation Services,15272
+2018,Central New York,61,Educational Services,11916
+2018,Central New York,62,Health Care and Social Assistance,50605
+2018,Central New York,71,"Arts, Entertainment, and Recreation",5178
+2018,Central New York,72,Accommodation and Food Services,29312
+2018,Central New York,81,Other Services (except Public Administration),11947
+2018,Central New York,90,Government,63246
+2018,Central New York,99,Unclassified Industry,216
+2018,Finger Lakes,11,"Agriculture, Forestry, Fishing and Hunting",6827
+2018,Finger Lakes,21,"Mining, Quarrying, and Oil and Gas Extraction",707
+2018,Finger Lakes,22,Utilities,1771
+2018,Finger Lakes,23,Construction,22100
+2018,Finger Lakes,31-33,Manufacturing,63446
+2018,Finger Lakes,42,Wholesale Trade,17410
+2018,Finger Lakes,44-45,Retail Trade,61061
+2018,Finger Lakes,48-49,Transportation and Warehousing,10781
+2018,Finger Lakes,51,Information,8064
+2018,Finger Lakes,52,Finance and Insurance,15229
+2018,Finger Lakes,53,Real Estate and Rental and Leasing,7453
+2018,Finger Lakes,54,"Professional, Scientific, and Technical Services",27609
+2018,Finger Lakes,55,Management of Companies and Enterprises,10514
+2018,Finger Lakes,56,Administrative and Support and Waste Management and Remediation Services,30716
+2018,Finger Lakes,61,Educational Services,29924
+2018,Finger Lakes,62,Health Care and Social Assistance,88242
+2018,Finger Lakes,71,"Arts, Entertainment, and Recreation",9727
+2018,Finger Lakes,72,Accommodation and Food Services,43378
+2018,Finger Lakes,81,Other Services (except Public Administration),17554
+2018,Finger Lakes,90,Government,86944
+2018,Finger Lakes,99,Unclassified Industry,399
+2018,Long Island,11,"Agriculture, Forestry, Fishing and Hunting",2767
+2018,Long Island,21,"Mining, Quarrying, and Oil and Gas Extraction",198
+2018,Long Island,22,Utilities,4647
+2018,Long Island,23,Construction,80668
+2018,Long Island,31-33,Manufacturing,70493
+2018,Long Island,42,Wholesale Trade,63521
+2018,Long Island,44-45,Retail Trade,159509
+2018,Long Island,48-49,Transportation and Warehousing,35195
+2018,Long Island,51,Information,16697
+2018,Long Island,52,Finance and Insurance,49412
+2018,Long Island,53,Real Estate and Rental and Leasing,18215
+2018,Long Island,54,"Professional, Scientific, and Technical Services",77819
+2018,Long Island,55,Management of Companies and Enterprises,15334
+2018,Long Island,56,Administrative and Support and Waste Management and Remediation Services,72319
+2018,Long Island,61,Educational Services,30373
+2018,Long Island,62,Health Care and Social Assistance,228400
+2018,Long Island,71,"Arts, Entertainment, and Recreation",23649
+2018,Long Island,72,Accommodation and Food Services,103946
+2018,Long Island,81,Other Services (except Public Administration),56269
+2018,Long Island,90,Government,182026
+2018,Long Island,99,Unclassified Industry,2753
+2018,Mid-Hudson,11,"Agriculture, Forestry, Fishing and Hunting",3864
+2018,Mid-Hudson,21,"Mining, Quarrying, and Oil and Gas Extraction",807
+2018,Mid-Hudson,22,Utilities,5505
+2018,Mid-Hudson,23,Construction,53728
+2018,Mid-Hudson,31-33,Manufacturing,43056
+2018,Mid-Hudson,42,Wholesale Trade,30512
+2018,Mid-Hudson,44-45,Retail Trade,114748
+2018,Mid-Hudson,48-49,Transportation and Warehousing,26732
+2018,Mid-Hudson,51,Information,14326
+2018,Mid-Hudson,52,Finance and Insurance,27882
+2018,Mid-Hudson,53,Real Estate and Rental and Leasing,16675
+2018,Mid-Hudson,54,"Professional, Scientific, and Technical Services",45411
+2018,Mid-Hudson,55,Management of Companies and Enterprises,12733
+2018,Mid-Hudson,56,Administrative and Support and Waste Management and Remediation Services,49207
+2018,Mid-Hudson,61,Educational Services,33377
+2018,Mid-Hudson,62,Health Care and Social Assistance,166390
+2018,Mid-Hudson,71,"Arts, Entertainment, and Recreation",19486
+2018,Mid-Hudson,72,Accommodation and Food Services,74118
+2018,Mid-Hudson,81,Other Services (except Public Administration),41593
+2018,Mid-Hudson,90,Government,147452
+2018,Mid-Hudson,99,Unclassified Industry,1840
+2018,Mohawk Valley,11,"Agriculture, Forestry, Fishing and Hunting",838
+2018,Mohawk Valley,21,"Mining, Quarrying, and Oil and Gas Extraction",312
+2018,Mohawk Valley,22,Utilities,507
+2018,Mohawk Valley,23,Construction,5068
+2018,Mohawk Valley,31-33,Manufacturing,17792
+2018,Mohawk Valley,42,Wholesale Trade,4346
+2018,Mohawk Valley,44-45,Retail Trade,22395
+2018,Mohawk Valley,48-49,Transportation and Warehousing,8152
+2018,Mohawk Valley,51,Information,2281
+2018,Mohawk Valley,52,Finance and Insurance,7584
+2018,Mohawk Valley,53,Real Estate and Rental and Leasing,1167
+2018,Mohawk Valley,54,"Professional, Scientific, and Technical Services",4879
+2018,Mohawk Valley,55,Management of Companies and Enterprises,1152
+2018,Mohawk Valley,56,Administrative and Support and Waste Management and Remediation Services,4521
+2018,Mohawk Valley,61,Educational Services,4136
+2018,Mohawk Valley,62,Health Care and Social Assistance,39323
+2018,Mohawk Valley,71,"Arts, Entertainment, and Recreation",2511
+2018,Mohawk Valley,72,Accommodation and Food Services,15357
+2018,Mohawk Valley,81,Other Services (except Public Administration),5605
+2018,Mohawk Valley,90,Government,43247
+2018,Mohawk Valley,99,Unclassified Industry,120
+2018,"New York, area not reported",11,"Agriculture, Forestry, Fishing and Hunting",182
+2018,"New York, area not reported",21,"Mining, Quarrying, and Oil and Gas Extraction",57
+2018,"New York, area not reported",22,Utilities,381
+2018,"New York, area not reported",23,Construction,10645
+2018,"New York, area not reported",31-33,Manufacturing,2260
+2018,"New York, area not reported",42,Wholesale Trade,23340
+2018,"New York, area not reported",44-45,Retail Trade,7471
+2018,"New York, area not reported",48-49,Transportation and Warehousing,2799
+2018,"New York, area not reported",51,Information,11261
+2018,"New York, area not reported",52,Finance and Insurance,9019
+2018,"New York, area not reported",53,Real Estate and Rental and Leasing,1831
+2018,"New York, area not reported",54,"Professional, Scientific, and Technical Services",27397
+2018,"New York, area not reported",55,Management of Companies and Enterprises,4575
+2018,"New York, area not reported",56,Administrative and Support and Waste Management and Remediation Services,30025
+2018,"New York, area not reported",61,Educational Services,2588
+2018,"New York, area not reported",62,Health Care and Social Assistance,8501
+2018,"New York, area not reported",71,"Arts, Entertainment, and Recreation",2011
+2018,"New York, area not reported",72,Accommodation and Food Services,3978
+2018,"New York, area not reported",81,Other Services (except Public Administration),4972
+2018,"New York, area not reported",90,Government,3015
+2018,"New York, area not reported",99,Unclassified Industry,3337
+2018,New York City,11,"Agriculture, Forestry, Fishing and Hunting",391
+2018,New York City,21,"Mining, Quarrying, and Oil and Gas Extraction",40
+2018,New York City,22,Utilities,15320
+2018,New York City,23,Construction,154296
+2018,New York City,31-33,Manufacturing,69892
+2018,New York City,42,Wholesale Trade,131748
+2018,New York City,44-45,Retail Trade,346212
+2018,New York City,48-49,Transportation and Warehousing,123804
+2018,New York City,51,Information,195670
+2018,New York City,52,Finance and Insurance,333263
+2018,New York City,53,Real Estate and Rental and Leasing,133095
+2018,New York City,54,"Professional, Scientific, and Technical Services",402532
+2018,New York City,55,Management of Companies and Enterprises,71039
+2018,New York City,56,Administrative and Support and Waste Management and Remediation Services,253768
+2018,New York City,61,Educational Services,186079
+2018,New York City,62,Health Care and Social Assistance,743075
+2018,New York City,71,"Arts, Entertainment, and Recreation",92426
+2018,New York City,72,Accommodation and Food Services,367544
+2018,New York City,81,Other Services (except Public Administration),175755
+2018,New York City,90,Government,574598
+2018,New York City,99,Unclassified Industry,8476
+2018,North Country,11,"Agriculture, Forestry, Fishing and Hunting",2673
+2018,North Country,21,"Mining, Quarrying, and Oil and Gas Extraction",310
+2018,North Country,22,Utilities,584
+2018,North Country,23,Construction,6069
+2018,North Country,31-33,Manufacturing,10263
+2018,North Country,42,Wholesale Trade,2648
+2018,North Country,44-45,Retail Trade,20513
+2018,North Country,48-49,Transportation and Warehousing,3436
+2018,North Country,51,Information,1702
+2018,North Country,52,Finance and Insurance,2388
+2018,North Country,53,Real Estate and Rental and Leasing,1447
+2018,North Country,54,"Professional, Scientific, and Technical Services",2868
+2018,North Country,55,Management of Companies and Enterprises,1124
+2018,North Country,56,Administrative and Support and Waste Management and Remediation Services,3558
+2018,North Country,61,Educational Services,3208
+2018,North Country,62,Health Care and Social Assistance,23879
+2018,North Country,71,"Arts, Entertainment, and Recreation",1672
+2018,North Country,72,Accommodation and Food Services,14385
+2018,North Country,81,Other Services (except Public Administration),4618
+2018,North Country,90,Government,44747
+2018,North Country,99,Unclassified Industry,101
+2018,Southern Tier,11,"Agriculture, Forestry, Fishing and Hunting",1783
+2018,Southern Tier,21,"Mining, Quarrying, and Oil and Gas Extraction",644
+2018,Southern Tier,22,Utilities,1311
+2018,Southern Tier,23,Construction,8011
+2018,Southern Tier,31-33,Manufacturing,33430
+2018,Southern Tier,42,Wholesale Trade,6729
+2018,Southern Tier,44-45,Retail Trade,29225
+2018,Southern Tier,48-49,Transportation and Warehousing,5219
+2018,Southern Tier,51,Information,3466
+2018,Southern Tier,52,Finance and Insurance,6554
+2018,Southern Tier,53,Real Estate and Rental and Leasing,2585
+2018,Southern Tier,54,"Professional, Scientific, and Technical Services",10220
+2018,Southern Tier,55,Management of Companies and Enterprises,2801
+2018,Southern Tier,56,Administrative and Support and Waste Management and Remediation Services,8187
+2018,Southern Tier,61,Educational Services,17157
+2018,Southern Tier,62,Health Care and Social Assistance,38502
+2018,Southern Tier,71,"Arts, Entertainment, and Recreation",2871
+2018,Southern Tier,72,Accommodation and Food Services,22506
+2018,Southern Tier,81,Other Services (except Public Administration),8592
+2018,Southern Tier,90,Government,49451
+2018,Southern Tier,99,Unclassified Industry,150
+2018,Western New York,11,"Agriculture, Forestry, Fishing and Hunting",2486
+2018,Western New York,21,"Mining, Quarrying, and Oil and Gas Extraction",434
+2018,Western New York,22,Utilities,1654
+2018,Western New York,23,Construction,22828
+2018,Western New York,31-33,Manufacturing,65445
+2018,Western New York,42,Wholesale Trade,21158
+2018,Western New York,44-45,Retail Trade,71466
+2018,Western New York,48-49,Transportation and Warehousing,17877
+2018,Western New York,51,Information,7970
+2018,Western New York,52,Finance and Insurance,29777
+2018,Western New York,53,Real Estate and Rental and Leasing,8018
+2018,Western New York,54,"Professional, Scientific, and Technical Services",28803
+2018,Western New York,55,Management of Companies and Enterprises,12994
+2018,Western New York,56,Administrative and Support and Waste Management and Remediation Services,29957
+2018,Western New York,61,Educational Services,16551
+2018,Western New York,62,Health Care and Social Assistance,93274
+2018,Western New York,71,"Arts, Entertainment, and Recreation",10173
+2018,Western New York,72,Accommodation and Food Services,60477
+2018,Western New York,81,Other Services (except Public Administration),23921
+2018,Western New York,90,Government,107706
+2018,Western New York,99,Unclassified Industry,468
+2017,Capital Region,11,"Agriculture, Forestry, Fishing and Hunting",2441
+2017,Capital Region,21,"Mining, Quarrying, and Oil and Gas Extraction",955
+2017,Capital Region,22,Utilities,1927
+2017,Capital Region,23,Construction,21776
+2017,Capital Region,31-33,Manufacturing,34330
+2017,Capital Region,42,Wholesale Trade,14840
+2017,Capital Region,44-45,Retail Trade,58441
+2017,Capital Region,48-49,Transportation and Warehousing,12347
+2017,Capital Region,51,Information,9310
+2017,Capital Region,52,Finance and Insurance,21420
+2017,Capital Region,53,Real Estate and Rental and Leasing,6304
+2017,Capital Region,54,"Professional, Scientific, and Technical Services",31814
+2017,Capital Region,55,Management of Companies and Enterprises,7531
+2017,Capital Region,56,Administrative and Support and Waste Management and Remediation Services,21186
+2017,Capital Region,61,Educational Services,18983
+2017,Capital Region,62,Health Care and Social Assistance,78027
+2017,Capital Region,71,"Arts, Entertainment, and Recreation",8295
+2017,Capital Region,72,Accommodation and Food Services,44182
+2017,Capital Region,81,Other Services (except Public Administration),19107
+2017,Capital Region,90,Government,112945
+2017,Capital Region,99,Unclassified Industry,533
+2017,Central New York,11,"Agriculture, Forestry, Fishing and Hunting",2590
+2017,Central New York,21,"Mining, Quarrying, and Oil and Gas Extraction",170
+2017,Central New York,22,Utilities,3846
+2017,Central New York,23,Construction,13791
+2017,Central New York,31-33,Manufacturing,30478
+2017,Central New York,42,Wholesale Trade,14454
+2017,Central New York,44-45,Retail Trade,40194
+2017,Central New York,48-49,Transportation and Warehousing,9814
+2017,Central New York,51,Information,4764
+2017,Central New York,52,Finance and Insurance,11149
+2017,Central New York,53,Real Estate and Rental and Leasing,3921
+2017,Central New York,54,"Professional, Scientific, and Technical Services",16815
+2017,Central New York,55,Management of Companies and Enterprises,4552
+2017,Central New York,56,Administrative and Support and Waste Management and Remediation Services,14408
+2017,Central New York,61,Educational Services,11605
+2017,Central New York,62,Health Care and Social Assistance,50017
+2017,Central New York,71,"Arts, Entertainment, and Recreation",5225
+2017,Central New York,72,Accommodation and Food Services,29644
+2017,Central New York,81,Other Services (except Public Administration),12059
+2017,Central New York,90,Government,62698
+2017,Central New York,99,Unclassified Industry,329
+2017,Finger Lakes,11,"Agriculture, Forestry, Fishing and Hunting",6712
+2017,Finger Lakes,21,"Mining, Quarrying, and Oil and Gas Extraction",700
+2017,Finger Lakes,22,Utilities,1775
+2017,Finger Lakes,23,Construction,21241
+2017,Finger Lakes,31-33,Manufacturing,63554
+2017,Finger Lakes,42,Wholesale Trade,17204
+2017,Finger Lakes,44-45,Retail Trade,61247
+2017,Finger Lakes,48-49,Transportation and Warehousing,10348
+2017,Finger Lakes,51,Information,8127
+2017,Finger Lakes,52,Finance and Insurance,14695
+2017,Finger Lakes,53,Real Estate and Rental and Leasing,7776
+2017,Finger Lakes,54,"Professional, Scientific, and Technical Services",28226
+2017,Finger Lakes,55,Management of Companies and Enterprises,10898
+2017,Finger Lakes,56,Administrative and Support and Waste Management and Remediation Services,28889
+2017,Finger Lakes,61,Educational Services,29468
+2017,Finger Lakes,62,Health Care and Social Assistance,86309
+2017,Finger Lakes,71,"Arts, Entertainment, and Recreation",7906
+2017,Finger Lakes,72,Accommodation and Food Services,43539
+2017,Finger Lakes,81,Other Services (except Public Administration),19388
+2017,Finger Lakes,90,Government,86613
+2017,Finger Lakes,99,Unclassified Industry,551
+2017,Long Island,11,"Agriculture, Forestry, Fishing and Hunting",2752
+2017,Long Island,21,"Mining, Quarrying, and Oil and Gas Extraction",198
+2017,Long Island,22,Utilities,4755
+2017,Long Island,23,Construction,78465
+2017,Long Island,31-33,Manufacturing,70866
+2017,Long Island,42,Wholesale Trade,63704
+2017,Long Island,44-45,Retail Trade,161121
+2017,Long Island,48-49,Transportation and Warehousing,35291
+2017,Long Island,51,Information,18044
+2017,Long Island,52,Finance and Insurance,51230
+2017,Long Island,53,Real Estate and Rental and Leasing,18298
+2017,Long Island,54,"Professional, Scientific, and Technical Services",78947
+2017,Long Island,55,Management of Companies and Enterprises,15485
+2017,Long Island,56,Administrative and Support and Waste Management and Remediation Services,71968
+2017,Long Island,61,Educational Services,30046
+2017,Long Island,62,Health Care and Social Assistance,221533
+2017,Long Island,71,"Arts, Entertainment, and Recreation",23643
+2017,Long Island,72,Accommodation and Food Services,102724
+2017,Long Island,81,Other Services (except Public Administration),55401
+2017,Long Island,90,Government,181572
+2017,Long Island,99,Unclassified Industry,3048
+2017,Mid-Hudson,11,"Agriculture, Forestry, Fishing and Hunting",3713
+2017,Mid-Hudson,21,"Mining, Quarrying, and Oil and Gas Extraction",664
+2017,Mid-Hudson,22,Utilities,5625
+2017,Mid-Hudson,23,Construction,51388
+2017,Mid-Hudson,31-33,Manufacturing,42963
+2017,Mid-Hudson,42,Wholesale Trade,30859
+2017,Mid-Hudson,44-45,Retail Trade,116228
+2017,Mid-Hudson,48-49,Transportation and Warehousing,26093
+2017,Mid-Hudson,51,Information,14450
+2017,Mid-Hudson,52,Finance and Insurance,28089
+2017,Mid-Hudson,53,Real Estate and Rental and Leasing,16511
+2017,Mid-Hudson,54,"Professional, Scientific, and Technical Services",45151
+2017,Mid-Hudson,55,Management of Companies and Enterprises,12762
+2017,Mid-Hudson,56,Administrative and Support and Waste Management and Remediation Services,47273
+2017,Mid-Hudson,61,Educational Services,32942
+2017,Mid-Hudson,62,Health Care and Social Assistance,162002
+2017,Mid-Hudson,71,"Arts, Entertainment, and Recreation",19262
+2017,Mid-Hudson,72,Accommodation and Food Services,72266
+2017,Mid-Hudson,81,Other Services (except Public Administration),41274
+2017,Mid-Hudson,90,Government,146802
+2017,Mid-Hudson,99,Unclassified Industry,2053
+2017,Mohawk Valley,11,"Agriculture, Forestry, Fishing and Hunting",850
+2017,Mohawk Valley,21,"Mining, Quarrying, and Oil and Gas Extraction",292
+2017,Mohawk Valley,22,Utilities,581
+2017,Mohawk Valley,23,Construction,4996
+2017,Mohawk Valley,31-33,Manufacturing,17907
+2017,Mohawk Valley,42,Wholesale Trade,4361
+2017,Mohawk Valley,44-45,Retail Trade,22616
+2017,Mohawk Valley,48-49,Transportation and Warehousing,8189
+2017,Mohawk Valley,51,Information,2451
+2017,Mohawk Valley,52,Finance and Insurance,7558
+2017,Mohawk Valley,53,Real Estate and Rental and Leasing,1153
+2017,Mohawk Valley,54,"Professional, Scientific, and Technical Services",4921
+2017,Mohawk Valley,55,Management of Companies and Enterprises,1150
+2017,Mohawk Valley,56,Administrative and Support and Waste Management and Remediation Services,4428
+2017,Mohawk Valley,61,Educational Services,3947
+2017,Mohawk Valley,62,Health Care and Social Assistance,38887
+2017,Mohawk Valley,71,"Arts, Entertainment, and Recreation",2604
+2017,Mohawk Valley,72,Accommodation and Food Services,15356
+2017,Mohawk Valley,81,Other Services (except Public Administration),5595
+2017,Mohawk Valley,90,Government,42868
+2017,Mohawk Valley,99,Unclassified Industry,180
+2017,"New York, area not reported",11,"Agriculture, Forestry, Fishing and Hunting",208
+2017,"New York, area not reported",21,"Mining, Quarrying, and Oil and Gas Extraction",27
+2017,"New York, area not reported",22,Utilities,401
+2017,"New York, area not reported",23,Construction,10651
+2017,"New York, area not reported",31-33,Manufacturing,2118
+2017,"New York, area not reported",42,Wholesale Trade,26647
+2017,"New York, area not reported",44-45,Retail Trade,6913
+2017,"New York, area not reported",48-49,Transportation and Warehousing,2638
+2017,"New York, area not reported",51,Information,12953
+2017,"New York, area not reported",52,Finance and Insurance,8304
+2017,"New York, area not reported",53,Real Estate and Rental and Leasing,1883
+2017,"New York, area not reported",54,"Professional, Scientific, and Technical Services",25384
+2017,"New York, area not reported",55,Management of Companies and Enterprises,4569
+2017,"New York, area not reported",56,Administrative and Support and Waste Management and Remediation Services,30056
+2017,"New York, area not reported",61,Educational Services,2735
+2017,"New York, area not reported",62,Health Care and Social Assistance,7271
+2017,"New York, area not reported",71,"Arts, Entertainment, and Recreation",1964
+2017,"New York, area not reported",72,Accommodation and Food Services,4615
+2017,"New York, area not reported",81,Other Services (except Public Administration),5224
+2017,"New York, area not reported",90,Government,2882
+2017,"New York, area not reported",99,Unclassified Industry,3300
+2017,New York City,11,"Agriculture, Forestry, Fishing and Hunting",368
+2017,New York City,21,"Mining, Quarrying, and Oil and Gas Extraction",30
+2017,New York City,22,Utilities,15311
+2017,New York City,23,Construction,147897
+2017,New York City,31-33,Manufacturing,72962
+2017,New York City,42,Wholesale Trade,134868
+2017,New York City,44-45,Retail Trade,346652
+2017,New York City,48-49,Transportation and Warehousing,120264
+2017,New York City,51,Information,186415
+2017,New York City,52,Finance and Insurance,328251
+2017,New York City,53,Real Estate and Rental and Leasing,131307
+2017,New York City,54,"Professional, Scientific, and Technical Services",401418
+2017,New York City,55,Management of Companies and Enterprises,69681
+2017,New York City,56,Administrative and Support and Waste Management and Remediation Services,236554
+2017,New York City,61,Educational Services,181139
+2017,New York City,62,Health Care and Social Assistance,703838
+2017,New York City,71,"Arts, Entertainment, and Recreation",87201
+2017,New York City,72,Accommodation and Food Services,364884
+2017,New York City,81,Other Services (except Public Administration),174632
+2017,New York City,90,Government,539071
+2017,New York City,99,Unclassified Industry,10124
+2017,North Country,11,"Agriculture, Forestry, Fishing and Hunting",2683
+2017,North Country,21,"Mining, Quarrying, and Oil and Gas Extraction",273
+2017,North Country,22,Utilities,625
+2017,North Country,23,Construction,5530
+2017,North Country,31-33,Manufacturing,10151
+2017,North Country,42,Wholesale Trade,2754
+2017,North Country,44-45,Retail Trade,20931
+2017,North Country,48-49,Transportation and Warehousing,3238
+2017,North Country,51,Information,1703
+2017,North Country,52,Finance and Insurance,2328
+2017,North Country,53,Real Estate and Rental and Leasing,1392
+2017,North Country,54,"Professional, Scientific, and Technical Services",2803
+2017,North Country,55,Management of Companies and Enterprises,1069
+2017,North Country,56,Administrative and Support and Waste Management and Remediation Services,3513
+2017,North Country,61,Educational Services,3233
+2017,North Country,62,Health Care and Social Assistance,23577
+2017,North Country,71,"Arts, Entertainment, and Recreation",1629
+2017,North Country,72,Accommodation and Food Services,14618
+2017,North Country,81,Other Services (except Public Administration),4685
+2017,North Country,90,Government,44583
+2017,North Country,99,Unclassified Industry,166
+2017,Southern Tier,11,"Agriculture, Forestry, Fishing and Hunting",1768
+2017,Southern Tier,21,"Mining, Quarrying, and Oil and Gas Extraction",587
+2017,Southern Tier,22,Utilities,1289
+2017,Southern Tier,23,Construction,8049
+2017,Southern Tier,31-33,Manufacturing,33260
+2017,Southern Tier,42,Wholesale Trade,6836
+2017,Southern Tier,44-45,Retail Trade,29747
+2017,Southern Tier,48-49,Transportation and Warehousing,4850
+2017,Southern Tier,51,Information,3438
+2017,Southern Tier,52,Finance and Insurance,6604
+2017,Southern Tier,53,Real Estate and Rental and Leasing,2602
+2017,Southern Tier,54,"Professional, Scientific, and Technical Services",9825
+2017,Southern Tier,55,Management of Companies and Enterprises,2624
+2017,Southern Tier,56,Administrative and Support and Waste Management and Remediation Services,8648
+2017,Southern Tier,61,Educational Services,16883
+2017,Southern Tier,62,Health Care and Social Assistance,38036
+2017,Southern Tier,71,"Arts, Entertainment, and Recreation",2694
+2017,Southern Tier,72,Accommodation and Food Services,21826
+2017,Southern Tier,81,Other Services (except Public Administration),8822
+2017,Southern Tier,90,Government,49356
+2017,Southern Tier,99,Unclassified Industry,224
+2017,Western New York,11,"Agriculture, Forestry, Fishing and Hunting",2368
+2017,Western New York,21,"Mining, Quarrying, and Oil and Gas Extraction",485
+2017,Western New York,22,Utilities,1813
+2017,Western New York,23,Construction,22831
+2017,Western New York,31-33,Manufacturing,65593
+2017,Western New York,42,Wholesale Trade,21502
+2017,Western New York,44-45,Retail Trade,72655
+2017,Western New York,48-49,Transportation and Warehousing,16590
+2017,Western New York,51,Information,7578
+2017,Western New York,52,Finance and Insurance,30201
+2017,Western New York,53,Real Estate and Rental and Leasing,8018
+2017,Western New York,54,"Professional, Scientific, and Technical Services",27734
+2017,Western New York,55,Management of Companies and Enterprises,13282
+2017,Western New York,56,Administrative and Support and Waste Management and Remediation Services,30844
+2017,Western New York,61,Educational Services,16312
+2017,Western New York,62,Health Care and Social Assistance,90796
+2017,Western New York,71,"Arts, Entertainment, and Recreation",9833
+2017,Western New York,72,Accommodation and Food Services,60635
+2017,Western New York,81,Other Services (except Public Administration),23618
+2017,Western New York,90,Government,107680
+2017,Western New York,99,Unclassified Industry,703
+2016,Capital Region,11,"Agriculture, Forestry, Fishing and Hunting",2270
+2016,Capital Region,21,"Mining, Quarrying, and Oil and Gas Extraction",886
+2016,Capital Region,22,Utilities,1955
+2016,Capital Region,23,Construction,21353
+2016,Capital Region,31-33,Manufacturing,33889
+2016,Capital Region,42,Wholesale Trade,15064
+2016,Capital Region,44-45,Retail Trade,58958
+2016,Capital Region,48-49,Transportation and Warehousing,12255
+2016,Capital Region,51,Information,9457
+2016,Capital Region,52,Finance and Insurance,21921
+2016,Capital Region,53,Real Estate and Rental and Leasing,6136
+2016,Capital Region,54,"Professional, Scientific, and Technical Services",31629
+2016,Capital Region,55,Management of Companies and Enterprises,7585
+2016,Capital Region,56,Administrative and Support and Waste Management and Remediation Services,20052
+2016,Capital Region,61,Educational Services,18507
+2016,Capital Region,62,Health Care and Social Assistance,76079
+2016,Capital Region,71,"Arts, Entertainment, and Recreation",8420
+2016,Capital Region,72,Accommodation and Food Services,42125
+2016,Capital Region,81,Other Services (except Public Administration),18824
+2016,Capital Region,90,Government,112729
+2016,Capital Region,99,Unclassified Industry,1578
+2016,Central New York,11,"Agriculture, Forestry, Fishing and Hunting",2400
+2016,Central New York,21,"Mining, Quarrying, and Oil and Gas Extraction",203
+2016,Central New York,22,Utilities,3588
+2016,Central New York,23,Construction,13850
+2016,Central New York,31-33,Manufacturing,30107
+2016,Central New York,42,Wholesale Trade,14614
+2016,Central New York,44-45,Retail Trade,41043
+2016,Central New York,48-49,Transportation and Warehousing,10323
+2016,Central New York,51,Information,4722
+2016,Central New York,52,Finance and Insurance,11746
+2016,Central New York,53,Real Estate and Rental and Leasing,4059
+2016,Central New York,54,"Professional, Scientific, and Technical Services",16717
+2016,Central New York,55,Management of Companies and Enterprises,4264
+2016,Central New York,56,Administrative and Support and Waste Management and Remediation Services,13867
+2016,Central New York,61,Educational Services,11671
+2016,Central New York,62,Health Care and Social Assistance,49854
+2016,Central New York,71,"Arts, Entertainment, and Recreation",5184
+2016,Central New York,72,Accommodation and Food Services,29695
+2016,Central New York,81,Other Services (except Public Administration),11636
+2016,Central New York,90,Government,62416
+2016,Central New York,99,Unclassified Industry,881
+2016,Finger Lakes,11,"Agriculture, Forestry, Fishing and Hunting",6840
+2016,Finger Lakes,21,"Mining, Quarrying, and Oil and Gas Extraction",684
+2016,Finger Lakes,22,Utilities,1814
+2016,Finger Lakes,23,Construction,20650
+2016,Finger Lakes,31-33,Manufacturing,64929
+2016,Finger Lakes,42,Wholesale Trade,17192
+2016,Finger Lakes,44-45,Retail Trade,61793
+2016,Finger Lakes,48-49,Transportation and Warehousing,9582
+2016,Finger Lakes,51,Information,8688
+2016,Finger Lakes,52,Finance and Insurance,15016
+2016,Finger Lakes,53,Real Estate and Rental and Leasing,7996
+2016,Finger Lakes,54,"Professional, Scientific, and Technical Services",27489
+2016,Finger Lakes,55,Management of Companies and Enterprises,11909
+2016,Finger Lakes,56,Administrative and Support and Waste Management and Remediation Services,28760
+2016,Finger Lakes,61,Educational Services,28595
+2016,Finger Lakes,62,Health Care and Social Assistance,84033
+2016,Finger Lakes,71,"Arts, Entertainment, and Recreation",7967
+2016,Finger Lakes,72,Accommodation and Food Services,42448
+2016,Finger Lakes,81,Other Services (except Public Administration),19396
+2016,Finger Lakes,90,Government,86436
+2016,Finger Lakes,99,Unclassified Industry,1447
+2016,Long Island,11,"Agriculture, Forestry, Fishing and Hunting",2680
+2016,Long Island,21,"Mining, Quarrying, and Oil and Gas Extraction",193
+2016,Long Island,22,Utilities,4612
+2016,Long Island,23,Construction,75021
+2016,Long Island,31-33,Manufacturing,70627
+2016,Long Island,42,Wholesale Trade,63067
+2016,Long Island,44-45,Retail Trade,160042
+2016,Long Island,48-49,Transportation and Warehousing,34832
+2016,Long Island,51,Information,18392
+2016,Long Island,52,Finance and Insurance,51408
+2016,Long Island,53,Real Estate and Rental and Leasing,17618
+2016,Long Island,54,"Professional, Scientific, and Technical Services",77550
+2016,Long Island,55,Management of Companies and Enterprises,15694
+2016,Long Island,56,Administrative and Support and Waste Management and Remediation Services,72707
+2016,Long Island,61,Educational Services,30800
+2016,Long Island,62,Health Care and Social Assistance,215132
+2016,Long Island,71,"Arts, Entertainment, and Recreation",22663
+2016,Long Island,72,Accommodation and Food Services,98326
+2016,Long Island,81,Other Services (except Public Administration),54450
+2016,Long Island,90,Government,178586
+2016,Long Island,99,Unclassified Industry,8196
+2016,Mid-Hudson,11,"Agriculture, Forestry, Fishing and Hunting",3609
+2016,Mid-Hudson,21,"Mining, Quarrying, and Oil and Gas Extraction",583
+2016,Mid-Hudson,22,Utilities,5461
+2016,Mid-Hudson,23,Construction,49380
+2016,Mid-Hudson,31-33,Manufacturing,43907
+2016,Mid-Hudson,42,Wholesale Trade,30146
+2016,Mid-Hudson,44-45,Retail Trade,117222
+2016,Mid-Hudson,48-49,Transportation and Warehousing,25161
+2016,Mid-Hudson,51,Information,15055
+2016,Mid-Hudson,52,Finance and Insurance,27891
+2016,Mid-Hudson,53,Real Estate and Rental and Leasing,16259
+2016,Mid-Hudson,54,"Professional, Scientific, and Technical Services",44298
+2016,Mid-Hudson,55,Management of Companies and Enterprises,12569
+2016,Mid-Hudson,56,Administrative and Support and Waste Management and Remediation Services,45026
+2016,Mid-Hudson,61,Educational Services,32251
+2016,Mid-Hudson,62,Health Care and Social Assistance,156625
+2016,Mid-Hudson,71,"Arts, Entertainment, and Recreation",18430
+2016,Mid-Hudson,72,Accommodation and Food Services,69563
+2016,Mid-Hudson,81,Other Services (except Public Administration),41494
+2016,Mid-Hudson,90,Government,146210
+2016,Mid-Hudson,99,Unclassified Industry,5499
+2016,Mohawk Valley,11,"Agriculture, Forestry, Fishing and Hunting",848
+2016,Mohawk Valley,21,"Mining, Quarrying, and Oil and Gas Extraction",278
+2016,Mohawk Valley,22,Utilities,612
+2016,Mohawk Valley,23,Construction,4774
+2016,Mohawk Valley,31-33,Manufacturing,17762
+2016,Mohawk Valley,42,Wholesale Trade,4326
+2016,Mohawk Valley,44-45,Retail Trade,22642
+2016,Mohawk Valley,48-49,Transportation and Warehousing,7678
+2016,Mohawk Valley,51,Information,2548
+2016,Mohawk Valley,52,Finance and Insurance,7735
+2016,Mohawk Valley,53,Real Estate and Rental and Leasing,1161
+2016,Mohawk Valley,54,"Professional, Scientific, and Technical Services",4798
+2016,Mohawk Valley,55,Management of Companies and Enterprises,1373
+2016,Mohawk Valley,56,Administrative and Support and Waste Management and Remediation Services,4475
+2016,Mohawk Valley,61,Educational Services,3869
+2016,Mohawk Valley,62,Health Care and Social Assistance,37972
+2016,Mohawk Valley,71,"Arts, Entertainment, and Recreation",2721
+2016,Mohawk Valley,72,Accommodation and Food Services,14754
+2016,Mohawk Valley,81,Other Services (except Public Administration),5550
+2016,Mohawk Valley,90,Government,42628
+2016,Mohawk Valley,99,Unclassified Industry,477
+2016,"New York, area not reported",11,"Agriculture, Forestry, Fishing and Hunting",127
+2016,"New York, area not reported",21,"Mining, Quarrying, and Oil and Gas Extraction",29
+2016,"New York, area not reported",22,Utilities,280
+2016,"New York, area not reported",23,Construction,10645
+2016,"New York, area not reported",31-33,Manufacturing,1235
+2016,"New York, area not reported",42,Wholesale Trade,25849
+2016,"New York, area not reported",44-45,Retail Trade,6206
+2016,"New York, area not reported",48-49,Transportation and Warehousing,3015
+2016,"New York, area not reported",51,Information,16018
+2016,"New York, area not reported",52,Finance and Insurance,7200
+2016,"New York, area not reported",53,Real Estate and Rental and Leasing,1552
+2016,"New York, area not reported",54,"Professional, Scientific, and Technical Services",23705
+2016,"New York, area not reported",55,Management of Companies and Enterprises,4258
+2016,"New York, area not reported",56,Administrative and Support and Waste Management and Remediation Services,30404
+2016,"New York, area not reported",61,Educational Services,2404
+2016,"New York, area not reported",62,Health Care and Social Assistance,7280
+2016,"New York, area not reported",71,"Arts, Entertainment, and Recreation",1646
+2016,"New York, area not reported",72,Accommodation and Food Services,4215
+2016,"New York, area not reported",81,Other Services (except Public Administration),4821
+2016,"New York, area not reported",90,Government,2443
+2016,"New York, area not reported",99,Unclassified Industry,7400
+2016,New York City,11,"Agriculture, Forestry, Fishing and Hunting",344
+2016,New York City,21,"Mining, Quarrying, and Oil and Gas Extraction",68
+2016,New York City,22,Utilities,15182
+2016,New York City,23,Construction,141897
+2016,New York City,31-33,Manufacturing,75233
+2016,New York City,42,Wholesale Trade,134559
+2016,New York City,44-45,Retail Trade,344246
+2016,New York City,48-49,Transportation and Warehousing,116128
+2016,New York City,51,Information,177613
+2016,New York City,52,Finance and Insurance,327530
+2016,New York City,53,Real Estate and Rental and Leasing,127495
+2016,New York City,54,"Professional, Scientific, and Technical Services",392704
+2016,New York City,55,Management of Companies and Enterprises,66433
+2016,New York City,56,Administrative and Support and Waste Management and Remediation Services,224009
+2016,New York City,61,Educational Services,178511
+2016,New York City,62,Health Care and Social Assistance,670827
+2016,New York City,71,"Arts, Entertainment, and Recreation",84590
+2016,New York City,72,Accommodation and Food Services,348764
+2016,New York City,81,Other Services (except Public Administration),172008
+2016,New York City,90,Government,538779
+2016,New York City,99,Unclassified Industry,28730
+2016,North Country,11,"Agriculture, Forestry, Fishing and Hunting",2555
+2016,North Country,21,"Mining, Quarrying, and Oil and Gas Extraction",250
+2016,North Country,22,Utilities,602
+2016,North Country,23,Construction,5485
+2016,North Country,31-33,Manufacturing,10221
+2016,North Country,42,Wholesale Trade,2763
+2016,North Country,44-45,Retail Trade,21259
+2016,North Country,48-49,Transportation and Warehousing,3252
+2016,North Country,51,Information,1746
+2016,North Country,52,Finance and Insurance,2293
+2016,North Country,53,Real Estate and Rental and Leasing,1428
+2016,North Country,54,"Professional, Scientific, and Technical Services",2742
+2016,North Country,55,Management of Companies and Enterprises,933
+2016,North Country,56,Administrative and Support and Waste Management and Remediation Services,3541
+2016,North Country,61,Educational Services,3290
+2016,North Country,62,Health Care and Social Assistance,23190
+2016,North Country,71,"Arts, Entertainment, and Recreation",1633
+2016,North Country,72,Accommodation and Food Services,14520
+2016,North Country,81,Other Services (except Public Administration),4728
+2016,North Country,90,Government,43829
+2016,North Country,99,Unclassified Industry,340
+2016,Southern Tier,11,"Agriculture, Forestry, Fishing and Hunting",1675
+2016,Southern Tier,21,"Mining, Quarrying, and Oil and Gas Extraction",795
+2016,Southern Tier,22,Utilities,1327
+2016,Southern Tier,23,Construction,7940
+2016,Southern Tier,31-33,Manufacturing,33321
+2016,Southern Tier,42,Wholesale Trade,6967
+2016,Southern Tier,44-45,Retail Trade,30136
+2016,Southern Tier,48-49,Transportation and Warehousing,4903
+2016,Southern Tier,51,Information,3402
+2016,Southern Tier,52,Finance and Insurance,6801
+2016,Southern Tier,53,Real Estate and Rental and Leasing,2589
+2016,Southern Tier,54,"Professional, Scientific, and Technical Services",9848
+2016,Southern Tier,55,Management of Companies and Enterprises,2638
+2016,Southern Tier,56,Administrative and Support and Waste Management and Remediation Services,8940
+2016,Southern Tier,61,Educational Services,17264
+2016,Southern Tier,62,Health Care and Social Assistance,37495
+2016,Southern Tier,71,"Arts, Entertainment, and Recreation",2951
+2016,Southern Tier,72,Accommodation and Food Services,21116
+2016,Southern Tier,81,Other Services (except Public Administration),8629
+2016,Southern Tier,90,Government,49976
+2016,Southern Tier,99,Unclassified Industry,572
+2016,Western New York,11,"Agriculture, Forestry, Fishing and Hunting",2500
+2016,Western New York,21,"Mining, Quarrying, and Oil and Gas Extraction",442
+2016,Western New York,22,Utilities,1958
+2016,Western New York,23,Construction,23288
+2016,Western New York,31-33,Manufacturing,66262
+2016,Western New York,42,Wholesale Trade,21912
+2016,Western New York,44-45,Retail Trade,74759
+2016,Western New York,48-49,Transportation and Warehousing,16132
+2016,Western New York,51,Information,7586
+2016,Western New York,52,Finance and Insurance,28279
+2016,Western New York,53,Real Estate and Rental and Leasing,7946
+2016,Western New York,54,"Professional, Scientific, and Technical Services",27554
+2016,Western New York,55,Management of Companies and Enterprises,14012
+2016,Western New York,56,Administrative and Support and Waste Management and Remediation Services,31560
+2016,Western New York,61,Educational Services,16049
+2016,Western New York,62,Health Care and Social Assistance,88969
+2016,Western New York,71,"Arts, Entertainment, and Recreation",9616
+2016,Western New York,72,Accommodation and Food Services,59828
+2016,Western New York,81,Other Services (except Public Administration),23318
+2016,Western New York,90,Government,107584
+2016,Western New York,99,Unclassified Industry,1811
+2015,Capital Region,11,"Agriculture, Forestry, Fishing and Hunting",2374
+2015,Capital Region,21,"Mining, Quarrying, and Oil and Gas Extraction",824
+2015,Capital Region,22,Utilities,1971
+2015,Capital Region,23,Construction,21650
+2015,Capital Region,31-33,Manufacturing,33263
+2015,Capital Region,42,Wholesale Trade,15245
+2015,Capital Region,44-45,Retail Trade,58714
+2015,Capital Region,48-49,Transportation and Warehousing,11770
+2015,Capital Region,51,Information,9435
+2015,Capital Region,52,Finance and Insurance,21712
+2015,Capital Region,53,Real Estate and Rental and Leasing,5979
+2015,Capital Region,54,"Professional, Scientific, and Technical Services",31924
+2015,Capital Region,55,Management of Companies and Enterprises,7226
+2015,Capital Region,56,Administrative and Support and Waste Management and Remediation Services,19457
+2015,Capital Region,61,Educational Services,18255
+2015,Capital Region,62,Health Care and Social Assistance,74525
+2015,Capital Region,71,"Arts, Entertainment, and Recreation",8352
+2015,Capital Region,72,Accommodation and Food Services,41343
+2015,Capital Region,81,Other Services (except Public Administration),18554
+2015,Capital Region,90,Government,112348
+2015,Capital Region,99,Unclassified Industry,894
+2015,Central New York,11,"Agriculture, Forestry, Fishing and Hunting",2410
+2015,Central New York,21,"Mining, Quarrying, and Oil and Gas Extraction",245
+2015,Central New York,22,Utilities,3555
+2015,Central New York,23,Construction,13205
+2015,Central New York,31-33,Manufacturing,30328
+2015,Central New York,42,Wholesale Trade,14683
+2015,Central New York,44-45,Retail Trade,41704
+2015,Central New York,48-49,Transportation and Warehousing,10280
+2015,Central New York,51,Information,4540
+2015,Central New York,52,Finance and Insurance,12274
+2015,Central New York,53,Real Estate and Rental and Leasing,3877
+2015,Central New York,54,"Professional, Scientific, and Technical Services",17081
+2015,Central New York,55,Management of Companies and Enterprises,3167
+2015,Central New York,56,Administrative and Support and Waste Management and Remediation Services,14507
+2015,Central New York,61,Educational Services,11454
+2015,Central New York,62,Health Care and Social Assistance,48481
+2015,Central New York,71,"Arts, Entertainment, and Recreation",5158
+2015,Central New York,72,Accommodation and Food Services,29561
+2015,Central New York,81,Other Services (except Public Administration),11806
+2015,Central New York,90,Government,61730
+2015,Central New York,99,Unclassified Industry,491
+2015,Finger Lakes,11,"Agriculture, Forestry, Fishing and Hunting",6746
+2015,Finger Lakes,21,"Mining, Quarrying, and Oil and Gas Extraction",705
+2015,Finger Lakes,22,Utilities,1927
+2015,Finger Lakes,23,Construction,20123
+2015,Finger Lakes,31-33,Manufacturing,65934
+2015,Finger Lakes,42,Wholesale Trade,17107
+2015,Finger Lakes,44-45,Retail Trade,61456
+2015,Finger Lakes,48-49,Transportation and Warehousing,9465
+2015,Finger Lakes,51,Information,8987
+2015,Finger Lakes,52,Finance and Insurance,15136
+2015,Finger Lakes,53,Real Estate and Rental and Leasing,7317
+2015,Finger Lakes,54,"Professional, Scientific, and Technical Services",26495
+2015,Finger Lakes,55,Management of Companies and Enterprises,12185
+2015,Finger Lakes,56,Administrative and Support and Waste Management and Remediation Services,29243
+2015,Finger Lakes,61,Educational Services,27970
+2015,Finger Lakes,62,Health Care and Social Assistance,81380
+2015,Finger Lakes,71,"Arts, Entertainment, and Recreation",8057
+2015,Finger Lakes,72,Accommodation and Food Services,41737
+2015,Finger Lakes,81,Other Services (except Public Administration),19450
+2015,Finger Lakes,90,Government,86631
+2015,Finger Lakes,99,Unclassified Industry,882
+2015,Long Island,11,"Agriculture, Forestry, Fishing and Hunting",2632
+2015,Long Island,21,"Mining, Quarrying, and Oil and Gas Extraction",189
+2015,Long Island,22,Utilities,4496
+2015,Long Island,23,Construction,71073
+2015,Long Island,31-33,Manufacturing,70755
+2015,Long Island,42,Wholesale Trade,64480
+2015,Long Island,44-45,Retail Trade,160115
+2015,Long Island,48-49,Transportation and Warehousing,34083
+2015,Long Island,51,Information,19556
+2015,Long Island,52,Finance and Insurance,52964
+2015,Long Island,53,Real Estate and Rental and Leasing,17246
+2015,Long Island,54,"Professional, Scientific, and Technical Services",77728
+2015,Long Island,55,Management of Companies and Enterprises,15308
+2015,Long Island,56,Administrative and Support and Waste Management and Remediation Services,70302
+2015,Long Island,61,Educational Services,30689
+2015,Long Island,62,Health Care and Social Assistance,207883
+2015,Long Island,71,"Arts, Entertainment, and Recreation",22848
+2015,Long Island,72,Accommodation and Food Services,96514
+2015,Long Island,81,Other Services (except Public Administration),52988
+2015,Long Island,90,Government,177730
+2015,Long Island,99,Unclassified Industry,5513
+2015,Mid-Hudson,11,"Agriculture, Forestry, Fishing and Hunting",3546
+2015,Mid-Hudson,21,"Mining, Quarrying, and Oil and Gas Extraction",559
+2015,Mid-Hudson,22,Utilities,5453
+2015,Mid-Hudson,23,Construction,48052
+2015,Mid-Hudson,31-33,Manufacturing,44858
+2015,Mid-Hudson,42,Wholesale Trade,30573
+2015,Mid-Hudson,44-45,Retail Trade,118546
+2015,Mid-Hudson,48-49,Transportation and Warehousing,24768
+2015,Mid-Hudson,51,Information,15475
+2015,Mid-Hudson,52,Finance and Insurance,28308
+2015,Mid-Hudson,53,Real Estate and Rental and Leasing,15907
+2015,Mid-Hudson,54,"Professional, Scientific, and Technical Services",44238
+2015,Mid-Hudson,55,Management of Companies and Enterprises,12592
+2015,Mid-Hudson,56,Administrative and Support and Waste Management and Remediation Services,43593
+2015,Mid-Hudson,61,Educational Services,31857
+2015,Mid-Hudson,62,Health Care and Social Assistance,151725
+2015,Mid-Hudson,71,"Arts, Entertainment, and Recreation",18230
+2015,Mid-Hudson,72,Accommodation and Food Services,68590
+2015,Mid-Hudson,81,Other Services (except Public Administration),40651
+2015,Mid-Hudson,90,Government,145033
+2015,Mid-Hudson,99,Unclassified Industry,3501
+2015,Mohawk Valley,11,"Agriculture, Forestry, Fishing and Hunting",828
+2015,Mohawk Valley,21,"Mining, Quarrying, and Oil and Gas Extraction",295
+2015,Mohawk Valley,22,Utilities,611
+2015,Mohawk Valley,23,Construction,4673
+2015,Mohawk Valley,31-33,Manufacturing,17559
+2015,Mohawk Valley,42,Wholesale Trade,4320
+2015,Mohawk Valley,44-45,Retail Trade,22465
+2015,Mohawk Valley,48-49,Transportation and Warehousing,7415
+2015,Mohawk Valley,51,Information,2525
+2015,Mohawk Valley,52,Finance and Insurance,7844
+2015,Mohawk Valley,53,Real Estate and Rental and Leasing,1163
+2015,Mohawk Valley,54,"Professional, Scientific, and Technical Services",4827
+2015,Mohawk Valley,55,Management of Companies and Enterprises,1375
+2015,Mohawk Valley,56,Administrative and Support and Waste Management and Remediation Services,4516
+2015,Mohawk Valley,61,Educational Services,4044
+2015,Mohawk Valley,62,Health Care and Social Assistance,37009
+2015,Mohawk Valley,71,"Arts, Entertainment, and Recreation",2767
+2015,Mohawk Valley,72,Accommodation and Food Services,14397
+2015,Mohawk Valley,81,Other Services (except Public Administration),5501
+2015,Mohawk Valley,90,Government,42578
+2015,Mohawk Valley,99,Unclassified Industry,252
+2015,"New York, area not reported",11,"Agriculture, Forestry, Fishing and Hunting",87
+2015,"New York, area not reported",21,"Mining, Quarrying, and Oil and Gas Extraction",33
+2015,"New York, area not reported",22,Utilities,1020
+2015,"New York, area not reported",23,Construction,11317
+2015,"New York, area not reported",31-33,Manufacturing,1223
+2015,"New York, area not reported",42,Wholesale Trade,25606
+2015,"New York, area not reported",44-45,Retail Trade,5541
+2015,"New York, area not reported",48-49,Transportation and Warehousing,3473
+2015,"New York, area not reported",51,Information,16301
+2015,"New York, area not reported",52,Finance and Insurance,7042
+2015,"New York, area not reported",53,Real Estate and Rental and Leasing,1438
+2015,"New York, area not reported",54,"Professional, Scientific, and Technical Services",23126
+2015,"New York, area not reported",55,Management of Companies and Enterprises,4476
+2015,"New York, area not reported",56,Administrative and Support and Waste Management and Remediation Services,26594
+2015,"New York, area not reported",61,Educational Services,2381
+2015,"New York, area not reported",62,Health Care and Social Assistance,5980
+2015,"New York, area not reported",71,"Arts, Entertainment, and Recreation",1857
+2015,"New York, area not reported",72,Accommodation and Food Services,3237
+2015,"New York, area not reported",81,Other Services (except Public Administration),4474
+2015,"New York, area not reported",90,Government,2378
+2015,"New York, area not reported",99,Unclassified Industry,4626
+2015,New York City,11,"Agriculture, Forestry, Fishing and Hunting",264
+2015,New York City,21,"Mining, Quarrying, and Oil and Gas Extraction",58
+2015,New York City,22,Utilities,14977
+2015,New York City,23,Construction,134206
+2015,New York City,31-33,Manufacturing,77297
+2015,New York City,42,Wholesale Trade,135297
+2015,New York City,44-45,Retail Trade,347264
+2015,New York City,48-49,Transportation and Warehousing,113153
+2015,New York City,51,Information,174629
+2015,New York City,52,Finance and Insurance,324587
+2015,New York City,53,Real Estate and Rental and Leasing,125846
+2015,New York City,54,"Professional, Scientific, and Technical Services",382580
+2015,New York City,55,Management of Companies and Enterprises,68283
+2015,New York City,56,Administrative and Support and Waste Management and Remediation Services,216188
+2015,New York City,61,Educational Services,174124
+2015,New York City,62,Health Care and Social Assistance,647558
+2015,New York City,71,"Arts, Entertainment, and Recreation",81745
+2015,New York City,72,Accommodation and Food Services,340351
+2015,New York City,81,Other Services (except Public Administration),167881
+2015,New York City,90,Government,536537
+2015,New York City,99,Unclassified Industry,18913
+2015,North Country,11,"Agriculture, Forestry, Fishing and Hunting",2623
+2015,North Country,21,"Mining, Quarrying, and Oil and Gas Extraction",280
+2015,North Country,22,Utilities,632
+2015,North Country,23,Construction,5250
+2015,North Country,31-33,Manufacturing,10575
+2015,North Country,42,Wholesale Trade,2868
+2015,North Country,44-45,Retail Trade,21312
+2015,North Country,48-49,Transportation and Warehousing,3219
+2015,North Country,51,Information,1746
+2015,North Country,52,Finance and Insurance,2299
+2015,North Country,53,Real Estate and Rental and Leasing,1430
+2015,North Country,54,"Professional, Scientific, and Technical Services",2798
+2015,North Country,55,Management of Companies and Enterprises,897
+2015,North Country,56,Administrative and Support and Waste Management and Remediation Services,3369
+2015,North Country,61,Educational Services,3120
+2015,North Country,62,Health Care and Social Assistance,22763
+2015,North Country,71,"Arts, Entertainment, and Recreation",1684
+2015,North Country,72,Accommodation and Food Services,14507
+2015,North Country,81,Other Services (except Public Administration),4543
+2015,North Country,90,Government,43770
+2015,North Country,99,Unclassified Industry,176
+2015,Southern Tier,11,"Agriculture, Forestry, Fishing and Hunting",1710
+2015,Southern Tier,21,"Mining, Quarrying, and Oil and Gas Extraction",905
+2015,Southern Tier,22,Utilities,1403
+2015,Southern Tier,23,Construction,7681
+2015,Southern Tier,31-33,Manufacturing,33781
+2015,Southern Tier,42,Wholesale Trade,6983
+2015,Southern Tier,44-45,Retail Trade,30233
+2015,Southern Tier,48-49,Transportation and Warehousing,4845
+2015,Southern Tier,51,Information,3691
+2015,Southern Tier,52,Finance and Insurance,6871
+2015,Southern Tier,53,Real Estate and Rental and Leasing,2553
+2015,Southern Tier,54,"Professional, Scientific, and Technical Services",9782
+2015,Southern Tier,55,Management of Companies and Enterprises,2553
+2015,Southern Tier,56,Administrative and Support and Waste Management and Remediation Services,9833
+2015,Southern Tier,61,Educational Services,17483
+2015,Southern Tier,62,Health Care and Social Assistance,36723
+2015,Southern Tier,71,"Arts, Entertainment, and Recreation",2713
+2015,Southern Tier,72,Accommodation and Food Services,20910
+2015,Southern Tier,81,Other Services (except Public Administration),8697
+2015,Southern Tier,90,Government,49876
+2015,Southern Tier,99,Unclassified Industry,307
+2015,Western New York,11,"Agriculture, Forestry, Fishing and Hunting",2444
+2015,Western New York,21,"Mining, Quarrying, and Oil and Gas Extraction",545
+2015,Western New York,22,Utilities,2098
+2015,Western New York,23,Construction,22462
+2015,Western New York,31-33,Manufacturing,66979
+2015,Western New York,42,Wholesale Trade,22462
+2015,Western New York,44-45,Retail Trade,74688
+2015,Western New York,48-49,Transportation and Warehousing,16478
+2015,Western New York,51,Information,7913
+2015,Western New York,52,Finance and Insurance,27634
+2015,Western New York,53,Real Estate and Rental and Leasing,7731
+2015,Western New York,54,"Professional, Scientific, and Technical Services",27462
+2015,Western New York,55,Management of Companies and Enterprises,14372
+2015,Western New York,56,Administrative and Support and Waste Management and Remediation Services,32345
+2015,Western New York,61,Educational Services,15908
+2015,Western New York,62,Health Care and Social Assistance,86630
+2015,Western New York,71,"Arts, Entertainment, and Recreation",9457
+2015,Western New York,72,Accommodation and Food Services,58922
+2015,Western New York,81,Other Services (except Public Administration),23136
+2015,Western New York,90,Government,106929
+2015,Western New York,99,Unclassified Industry,1060
+2014,Capital Region,11,"Agriculture, Forestry, Fishing and Hunting",2416
+2014,Capital Region,21,"Mining, Quarrying, and Oil and Gas Extraction",725
+2014,Capital Region,22,Utilities,1874
+2014,Capital Region,23,Construction,20713
+2014,Capital Region,31-33,Manufacturing,32041
+2014,Capital Region,42,Wholesale Trade,14951
+2014,Capital Region,44-45,Retail Trade,58765
+2014,Capital Region,48-49,Transportation and Warehousing,11478
+2014,Capital Region,51,Information,9418
+2014,Capital Region,52,Finance and Insurance,21478
+2014,Capital Region,53,Real Estate and Rental and Leasing,5772
+2014,Capital Region,54,"Professional, Scientific, and Technical Services",31509
+2014,Capital Region,55,Management of Companies and Enterprises,7096
+2014,Capital Region,56,Administrative and Support and Waste Management and Remediation Services,18669
+2014,Capital Region,61,Educational Services,18235
+2014,Capital Region,62,Health Care and Social Assistance,73274
+2014,Capital Region,71,"Arts, Entertainment, and Recreation",8225
+2014,Capital Region,72,Accommodation and Food Services,40212
+2014,Capital Region,81,Other Services (except Public Administration),18148
+2014,Capital Region,90,Government,112290
+2014,Capital Region,99,Unclassified Industry,900
+2014,Central New York,11,"Agriculture, Forestry, Fishing and Hunting",2288
+2014,Central New York,21,"Mining, Quarrying, and Oil and Gas Extraction",255
+2014,Central New York,22,Utilities,3774
+2014,Central New York,23,Construction,13143
+2014,Central New York,31-33,Manufacturing,30231
+2014,Central New York,42,Wholesale Trade,14616
+2014,Central New York,44-45,Retail Trade,41422
+2014,Central New York,48-49,Transportation and Warehousing,10103
+2014,Central New York,51,Information,4684
+2014,Central New York,52,Finance and Insurance,12459
+2014,Central New York,53,Real Estate and Rental and Leasing,3778
+2014,Central New York,54,"Professional, Scientific, and Technical Services",17264
+2014,Central New York,55,Management of Companies and Enterprises,3151
+2014,Central New York,56,Administrative and Support and Waste Management and Remediation Services,15084
+2014,Central New York,61,Educational Services,11384
+2014,Central New York,62,Health Care and Social Assistance,47910
+2014,Central New York,71,"Arts, Entertainment, and Recreation",4858
+2014,Central New York,72,Accommodation and Food Services,29283
+2014,Central New York,81,Other Services (except Public Administration),11853
+2014,Central New York,90,Government,61320
+2014,Central New York,99,Unclassified Industry,513
+2014,Finger Lakes,11,"Agriculture, Forestry, Fishing and Hunting",6802
+2014,Finger Lakes,21,"Mining, Quarrying, and Oil and Gas Extraction",692
+2014,Finger Lakes,22,Utilities,1815
+2014,Finger Lakes,23,Construction,19889
+2014,Finger Lakes,31-33,Manufacturing,65443
+2014,Finger Lakes,42,Wholesale Trade,17239
+2014,Finger Lakes,44-45,Retail Trade,60977
+2014,Finger Lakes,48-49,Transportation and Warehousing,9451
+2014,Finger Lakes,51,Information,8881
+2014,Finger Lakes,52,Finance and Insurance,14989
+2014,Finger Lakes,53,Real Estate and Rental and Leasing,7219
+2014,Finger Lakes,54,"Professional, Scientific, and Technical Services",26454
+2014,Finger Lakes,55,Management of Companies and Enterprises,11944
+2014,Finger Lakes,56,Administrative and Support and Waste Management and Remediation Services,28200
+2014,Finger Lakes,61,Educational Services,27174
+2014,Finger Lakes,62,Health Care and Social Assistance,80821
+2014,Finger Lakes,71,"Arts, Entertainment, and Recreation",7906
+2014,Finger Lakes,72,Accommodation and Food Services,41491
+2014,Finger Lakes,81,Other Services (except Public Administration),19373
+2014,Finger Lakes,90,Government,86694
+2014,Finger Lakes,99,Unclassified Industry,819
+2014,Long Island,11,"Agriculture, Forestry, Fishing and Hunting",2645
+2014,Long Island,21,"Mining, Quarrying, and Oil and Gas Extraction",172
+2014,Long Island,22,Utilities,4299
+2014,Long Island,23,Construction,68480
+2014,Long Island,31-33,Manufacturing,71144
+2014,Long Island,42,Wholesale Trade,64046
+2014,Long Island,44-45,Retail Trade,159512
+2014,Long Island,48-49,Transportation and Warehousing,33390
+2014,Long Island,51,Information,21139
+2014,Long Island,52,Finance and Insurance,53008
+2014,Long Island,53,Real Estate and Rental and Leasing,17025
+2014,Long Island,54,"Professional, Scientific, and Technical Services",77381
+2014,Long Island,55,Management of Companies and Enterprises,15590
+2014,Long Island,56,Administrative and Support and Waste Management and Remediation Services,68575
+2014,Long Island,61,Educational Services,29914
+2014,Long Island,62,Health Care and Social Assistance,201231
+2014,Long Island,71,"Arts, Entertainment, and Recreation",22640
+2014,Long Island,72,Accommodation and Food Services,94367
+2014,Long Island,81,Other Services (except Public Administration),52299
+2014,Long Island,90,Government,177281
+2014,Long Island,99,Unclassified Industry,5761
+2014,Mid-Hudson,11,"Agriculture, Forestry, Fishing and Hunting",3573
+2014,Mid-Hudson,21,"Mining, Quarrying, and Oil and Gas Extraction",535
+2014,Mid-Hudson,22,Utilities,5352
+2014,Mid-Hudson,23,Construction,44759
+2014,Mid-Hudson,31-33,Manufacturing,45010
+2014,Mid-Hudson,42,Wholesale Trade,30422
+2014,Mid-Hudson,44-45,Retail Trade,118006
+2014,Mid-Hudson,48-49,Transportation and Warehousing,23517
+2014,Mid-Hudson,51,Information,15783
+2014,Mid-Hudson,52,Finance and Insurance,28899
+2014,Mid-Hudson,53,Real Estate and Rental and Leasing,15212
+2014,Mid-Hudson,54,"Professional, Scientific, and Technical Services",43341
+2014,Mid-Hudson,55,Management of Companies and Enterprises,13183
+2014,Mid-Hudson,56,Administrative and Support and Waste Management and Remediation Services,42904
+2014,Mid-Hudson,61,Educational Services,31267
+2014,Mid-Hudson,62,Health Care and Social Assistance,145946
+2014,Mid-Hudson,71,"Arts, Entertainment, and Recreation",17843
+2014,Mid-Hudson,72,Accommodation and Food Services,67714
+2014,Mid-Hudson,81,Other Services (except Public Administration),39703
+2014,Mid-Hudson,90,Government,145800
+2014,Mid-Hudson,99,Unclassified Industry,3748
+2014,Mohawk Valley,11,"Agriculture, Forestry, Fishing and Hunting",781
+2014,Mohawk Valley,21,"Mining, Quarrying, and Oil and Gas Extraction",311
+2014,Mohawk Valley,22,Utilities,546
+2014,Mohawk Valley,23,Construction,4739
+2014,Mohawk Valley,31-33,Manufacturing,17410
+2014,Mohawk Valley,42,Wholesale Trade,4335
+2014,Mohawk Valley,44-45,Retail Trade,22729
+2014,Mohawk Valley,48-49,Transportation and Warehousing,7429
+2014,Mohawk Valley,51,Information,2601
+2014,Mohawk Valley,52,Finance and Insurance,7946
+2014,Mohawk Valley,53,Real Estate and Rental and Leasing,1203
+2014,Mohawk Valley,54,"Professional, Scientific, and Technical Services",4746
+2014,Mohawk Valley,55,Management of Companies and Enterprises,1356
+2014,Mohawk Valley,56,Administrative and Support and Waste Management and Remediation Services,4554
+2014,Mohawk Valley,61,Educational Services,4117
+2014,Mohawk Valley,62,Health Care and Social Assistance,36068
+2014,Mohawk Valley,71,"Arts, Entertainment, and Recreation",2682
+2014,Mohawk Valley,72,Accommodation and Food Services,14462
+2014,Mohawk Valley,81,Other Services (except Public Administration),5531
+2014,Mohawk Valley,90,Government,42912
+2014,Mohawk Valley,99,Unclassified Industry,252
+2014,"New York, area not reported",11,"Agriculture, Forestry, Fishing and Hunting",81
+2014,"New York, area not reported",21,"Mining, Quarrying, and Oil and Gas Extraction",60
+2014,"New York, area not reported",22,Utilities,1120
+2014,"New York, area not reported",23,Construction,10501
+2014,"New York, area not reported",31-33,Manufacturing,1155
+2014,"New York, area not reported",42,Wholesale Trade,25008
+2014,"New York, area not reported",44-45,Retail Trade,4552
+2014,"New York, area not reported",48-49,Transportation and Warehousing,3225
+2014,"New York, area not reported",51,Information,15862
+2014,"New York, area not reported",52,Finance and Insurance,6577
+2014,"New York, area not reported",53,Real Estate and Rental and Leasing,1301
+2014,"New York, area not reported",54,"Professional, Scientific, and Technical Services",21405
+2014,"New York, area not reported",55,Management of Companies and Enterprises,4061
+2014,"New York, area not reported",56,Administrative and Support and Waste Management and Remediation Services,26088
+2014,"New York, area not reported",61,Educational Services,2313
+2014,"New York, area not reported",62,Health Care and Social Assistance,5609
+2014,"New York, area not reported",71,"Arts, Entertainment, and Recreation",1938
+2014,"New York, area not reported",72,Accommodation and Food Services,2713
+2014,"New York, area not reported",81,Other Services (except Public Administration),4221
+2014,"New York, area not reported",90,Government,2380
+2014,"New York, area not reported",99,Unclassified Industry,5982
+2014,New York City,11,"Agriculture, Forestry, Fishing and Hunting",214
+2014,New York City,21,"Mining, Quarrying, and Oil and Gas Extraction",62
+2014,New York City,22,Utilities,14789
+2014,New York City,23,Construction,124303
+2014,New York City,31-33,Manufacturing,75694
+2014,New York City,42,Wholesale Trade,134011
+2014,New York City,44-45,Retail Trade,346289
+2014,New York City,48-49,Transportation and Warehousing,106840
+2014,New York City,51,Information,170919
+2014,New York City,52,Finance and Insurance,318104
+2014,New York City,53,Real Estate and Rental and Leasing,122229
+2014,New York City,54,"Professional, Scientific, and Technical Services",364718
+2014,New York City,55,Management of Companies and Enterprises,67374
+2014,New York City,56,Administrative and Support and Waste Management and Remediation Services,206045
+2014,New York City,61,Educational Services,162312
+2014,New York City,62,Health Care and Social Assistance,635206
+2014,New York City,71,"Arts, Entertainment, and Recreation",79731
+2014,New York City,72,Accommodation and Food Services,323776
+2014,New York City,81,Other Services (except Public Administration),162368
+2014,New York City,90,Government,532578
+2014,New York City,99,Unclassified Industry,19487
+2014,North Country,11,"Agriculture, Forestry, Fishing and Hunting",2513
+2014,North Country,21,"Mining, Quarrying, and Oil and Gas Extraction",275
+2014,North Country,22,Utilities,582
+2014,North Country,23,Construction,5113
+2014,North Country,31-33,Manufacturing,10635
+2014,North Country,42,Wholesale Trade,2881
+2014,North Country,44-45,Retail Trade,21507
+2014,North Country,48-49,Transportation and Warehousing,3206
+2014,North Country,51,Information,1793
+2014,North Country,52,Finance and Insurance,2226
+2014,North Country,53,Real Estate and Rental and Leasing,1425
+2014,North Country,54,"Professional, Scientific, and Technical Services",2763
+2014,North Country,55,Management of Companies and Enterprises,1086
+2014,North Country,56,Administrative and Support and Waste Management and Remediation Services,3548
+2014,North Country,61,Educational Services,2940
+2014,North Country,62,Health Care and Social Assistance,22437
+2014,North Country,71,"Arts, Entertainment, and Recreation",1614
+2014,North Country,72,Accommodation and Food Services,14523
+2014,North Country,81,Other Services (except Public Administration),4521
+2014,North Country,90,Government,43974
+2014,North Country,99,Unclassified Industry,187
+2014,Southern Tier,11,"Agriculture, Forestry, Fishing and Hunting",1600
+2014,Southern Tier,21,"Mining, Quarrying, and Oil and Gas Extraction",940
+2014,Southern Tier,22,Utilities,1392
+2014,Southern Tier,23,Construction,7986
+2014,Southern Tier,31-33,Manufacturing,33938
+2014,Southern Tier,42,Wholesale Trade,6973
+2014,Southern Tier,44-45,Retail Trade,30189
+2014,Southern Tier,48-49,Transportation and Warehousing,4880
+2014,Southern Tier,51,Information,4158
+2014,Southern Tier,52,Finance and Insurance,7003
+2014,Southern Tier,53,Real Estate and Rental and Leasing,2510
+2014,Southern Tier,54,"Professional, Scientific, and Technical Services",9847
+2014,Southern Tier,55,Management of Companies and Enterprises,2435
+2014,Southern Tier,56,Administrative and Support and Waste Management and Remediation Services,10347
+2014,Southern Tier,61,Educational Services,16315
+2014,Southern Tier,62,Health Care and Social Assistance,36580
+2014,Southern Tier,71,"Arts, Entertainment, and Recreation",2696
+2014,Southern Tier,72,Accommodation and Food Services,20898
+2014,Southern Tier,81,Other Services (except Public Administration),8666
+2014,Southern Tier,90,Government,50514
+2014,Southern Tier,99,Unclassified Industry,306
+2014,Western New York,11,"Agriculture, Forestry, Fishing and Hunting",2414
+2014,Western New York,21,"Mining, Quarrying, and Oil and Gas Extraction",580
+2014,Western New York,22,Utilities,1969
+2014,Western New York,23,Construction,21669
+2014,Western New York,31-33,Manufacturing,67523
+2014,Western New York,42,Wholesale Trade,22293
+2014,Western New York,44-45,Retail Trade,74248
+2014,Western New York,48-49,Transportation and Warehousing,16006
+2014,Western New York,51,Information,8289
+2014,Western New York,52,Finance and Insurance,26482
+2014,Western New York,53,Real Estate and Rental and Leasing,7580
+2014,Western New York,54,"Professional, Scientific, and Technical Services",27336
+2014,Western New York,55,Management of Companies and Enterprises,14294
+2014,Western New York,56,Administrative and Support and Waste Management and Remediation Services,32254
+2014,Western New York,61,Educational Services,15959
+2014,Western New York,62,Health Care and Social Assistance,85710
+2014,Western New York,71,"Arts, Entertainment, and Recreation",9200
+2014,Western New York,72,Accommodation and Food Services,58108
+2014,Western New York,81,Other Services (except Public Administration),22980
+2014,Western New York,90,Government,106848
+2014,Western New York,99,Unclassified Industry,951
+2013,Capital Region,11,"Agriculture, Forestry, Fishing and Hunting",2274
+2013,Capital Region,21,"Mining, Quarrying, and Oil and Gas Extraction",687
+2013,Capital Region,22,Utilities,1795
+2013,Capital Region,23,Construction,19747
+2013,Capital Region,31-33,Manufacturing,31892
+2013,Capital Region,42,Wholesale Trade,14727
+2013,Capital Region,44-45,Retail Trade,58246
+2013,Capital Region,48-49,Transportation and Warehousing,11058
+2013,Capital Region,51,Information,9371
+2013,Capital Region,52,Finance and Insurance,21537
+2013,Capital Region,53,Real Estate and Rental and Leasing,5458
+2013,Capital Region,54,"Professional, Scientific, and Technical Services",31104
+2013,Capital Region,55,Management of Companies and Enterprises,7382
+2013,Capital Region,56,Administrative and Support and Waste Management and Remediation Services,18457
+2013,Capital Region,61,Educational Services,17908
+2013,Capital Region,62,Health Care and Social Assistance,73030
+2013,Capital Region,71,"Arts, Entertainment, and Recreation",8016
+2013,Capital Region,72,Accommodation and Food Services,39760
+2013,Capital Region,81,Other Services (except Public Administration),17853
+2013,Capital Region,90,Government,111501
+2013,Capital Region,99,Unclassified Industry,657
+2013,Central New York,11,"Agriculture, Forestry, Fishing and Hunting",2141
+2013,Central New York,21,"Mining, Quarrying, and Oil and Gas Extraction",230
+2013,Central New York,22,Utilities,3646
+2013,Central New York,23,Construction,13415
+2013,Central New York,31-33,Manufacturing,30149
+2013,Central New York,42,Wholesale Trade,15170
+2013,Central New York,44-45,Retail Trade,41088
+2013,Central New York,48-49,Transportation and Warehousing,9676
+2013,Central New York,51,Information,4745
+2013,Central New York,52,Finance and Insurance,12788
+2013,Central New York,53,Real Estate and Rental and Leasing,3825
+2013,Central New York,54,"Professional, Scientific, and Technical Services",17298
+2013,Central New York,55,Management of Companies and Enterprises,3075
+2013,Central New York,56,Administrative and Support and Waste Management and Remediation Services,14726
+2013,Central New York,61,Educational Services,11501
+2013,Central New York,62,Health Care and Social Assistance,47352
+2013,Central New York,71,"Arts, Entertainment, and Recreation",4797
+2013,Central New York,72,Accommodation and Food Services,28839
+2013,Central New York,81,Other Services (except Public Administration),11658
+2013,Central New York,90,Government,61713
+2013,Central New York,99,Unclassified Industry,376
+2013,Finger Lakes,11,"Agriculture, Forestry, Fishing and Hunting",6534
+2013,Finger Lakes,21,"Mining, Quarrying, and Oil and Gas Extraction",566
+2013,Finger Lakes,22,Utilities,1657
+2013,Finger Lakes,23,Construction,19540
+2013,Finger Lakes,31-33,Manufacturing,65920
+2013,Finger Lakes,42,Wholesale Trade,17208
+2013,Finger Lakes,44-45,Retail Trade,61185
+2013,Finger Lakes,48-49,Transportation and Warehousing,9325
+2013,Finger Lakes,51,Information,8682
+2013,Finger Lakes,52,Finance and Insurance,15208
+2013,Finger Lakes,53,Real Estate and Rental and Leasing,7090
+2013,Finger Lakes,54,"Professional, Scientific, and Technical Services",25293
+2013,Finger Lakes,55,Management of Companies and Enterprises,12432
+2013,Finger Lakes,56,Administrative and Support and Waste Management and Remediation Services,28642
+2013,Finger Lakes,61,Educational Services,26656
+2013,Finger Lakes,62,Health Care and Social Assistance,79307
+2013,Finger Lakes,71,"Arts, Entertainment, and Recreation",8144
+2013,Finger Lakes,72,Accommodation and Food Services,40714
+2013,Finger Lakes,81,Other Services (except Public Administration),19445
+2013,Finger Lakes,90,Government,86564
+2013,Finger Lakes,99,Unclassified Industry,648
+2013,Long Island,11,"Agriculture, Forestry, Fishing and Hunting",2550
+2013,Long Island,21,"Mining, Quarrying, and Oil and Gas Extraction",184
+2013,Long Island,22,Utilities,4037
+2013,Long Island,23,Construction,65096
+2013,Long Island,31-33,Manufacturing,73083
+2013,Long Island,42,Wholesale Trade,63295
+2013,Long Island,44-45,Retail Trade,156937
+2013,Long Island,48-49,Transportation and Warehousing,32287
+2013,Long Island,51,Information,22834
+2013,Long Island,52,Finance and Insurance,52751
+2013,Long Island,53,Real Estate and Rental and Leasing,16426
+2013,Long Island,54,"Professional, Scientific, and Technical Services",78105
+2013,Long Island,55,Management of Companies and Enterprises,14701
+2013,Long Island,56,Administrative and Support and Waste Management and Remediation Services,67564
+2013,Long Island,61,Educational Services,29641
+2013,Long Island,62,Health Care and Social Assistance,198878
+2013,Long Island,71,"Arts, Entertainment, and Recreation",22251
+2013,Long Island,72,Accommodation and Food Services,91986
+2013,Long Island,81,Other Services (except Public Administration),50884
+2013,Long Island,90,Government,177260
+2013,Long Island,99,Unclassified Industry,4747
+2013,Mid-Hudson,11,"Agriculture, Forestry, Fishing and Hunting",3362
+2013,Mid-Hudson,21,"Mining, Quarrying, and Oil and Gas Extraction",526
+2013,Mid-Hudson,22,Utilities,5289
+2013,Mid-Hudson,23,Construction,40871
+2013,Mid-Hudson,31-33,Manufacturing,46826
+2013,Mid-Hudson,42,Wholesale Trade,30221
+2013,Mid-Hudson,44-45,Retail Trade,116187
+2013,Mid-Hudson,48-49,Transportation and Warehousing,22721
+2013,Mid-Hudson,51,Information,16910
+2013,Mid-Hudson,52,Finance and Insurance,29248
+2013,Mid-Hudson,53,Real Estate and Rental and Leasing,15394
+2013,Mid-Hudson,54,"Professional, Scientific, and Technical Services",42793
+2013,Mid-Hudson,55,Management of Companies and Enterprises,12965
+2013,Mid-Hudson,56,Administrative and Support and Waste Management and Remediation Services,42882
+2013,Mid-Hudson,61,Educational Services,30893
+2013,Mid-Hudson,62,Health Care and Social Assistance,144039
+2013,Mid-Hudson,71,"Arts, Entertainment, and Recreation",17056
+2013,Mid-Hudson,72,Accommodation and Food Services,65050
+2013,Mid-Hudson,81,Other Services (except Public Administration),38546
+2013,Mid-Hudson,90,Government,146302
+2013,Mid-Hudson,99,Unclassified Industry,2935
+2013,Mohawk Valley,11,"Agriculture, Forestry, Fishing and Hunting",798
+2013,Mohawk Valley,21,"Mining, Quarrying, and Oil and Gas Extraction",260
+2013,Mohawk Valley,22,Utilities,548
+2013,Mohawk Valley,23,Construction,5001
+2013,Mohawk Valley,31-33,Manufacturing,17219
+2013,Mohawk Valley,42,Wholesale Trade,4628
+2013,Mohawk Valley,44-45,Retail Trade,22684
+2013,Mohawk Valley,48-49,Transportation and Warehousing,7405
+2013,Mohawk Valley,51,Information,2517
+2013,Mohawk Valley,52,Finance and Insurance,8016
+2013,Mohawk Valley,53,Real Estate and Rental and Leasing,1240
+2013,Mohawk Valley,54,"Professional, Scientific, and Technical Services",5033
+2013,Mohawk Valley,55,Management of Companies and Enterprises,1253
+2013,Mohawk Valley,56,Administrative and Support and Waste Management and Remediation Services,4638
+2013,Mohawk Valley,61,Educational Services,4103
+2013,Mohawk Valley,62,Health Care and Social Assistance,36183
+2013,Mohawk Valley,71,"Arts, Entertainment, and Recreation",2819
+2013,Mohawk Valley,72,Accommodation and Food Services,14257
+2013,Mohawk Valley,81,Other Services (except Public Administration),5473
+2013,Mohawk Valley,90,Government,43333
+2013,Mohawk Valley,99,Unclassified Industry,123
+2013,"New York, area not reported",11,"Agriculture, Forestry, Fishing and Hunting",138
+2013,"New York, area not reported",21,"Mining, Quarrying, and Oil and Gas Extraction",75
+2013,"New York, area not reported",22,Utilities,183
+2013,"New York, area not reported",23,Construction,10458
+2013,"New York, area not reported",31-33,Manufacturing,1350
+2013,"New York, area not reported",42,Wholesale Trade,25826
+2013,"New York, area not reported",44-45,Retail Trade,5098
+2013,"New York, area not reported",48-49,Transportation and Warehousing,2726
+2013,"New York, area not reported",51,Information,16990
+2013,"New York, area not reported",52,Finance and Insurance,7156
+2013,"New York, area not reported",53,Real Estate and Rental and Leasing,1649
+2013,"New York, area not reported",54,"Professional, Scientific, and Technical Services",21543
+2013,"New York, area not reported",55,Management of Companies and Enterprises,4045
+2013,"New York, area not reported",56,Administrative and Support and Waste Management and Remediation Services,24898
+2013,"New York, area not reported",61,Educational Services,2146
+2013,"New York, area not reported",62,Health Care and Social Assistance,4551
+2013,"New York, area not reported",71,"Arts, Entertainment, and Recreation",1846
+2013,"New York, area not reported",72,Accommodation and Food Services,4168
+2013,"New York, area not reported",81,Other Services (except Public Administration),5057
+2013,"New York, area not reported",90,Government,3920
+2013,"New York, area not reported",99,Unclassified Industry,4567
+2013,New York City,11,"Agriculture, Forestry, Fishing and Hunting",223
+2013,New York City,21,"Mining, Quarrying, and Oil and Gas Extraction",46
+2013,New York City,22,Utilities,14891
+2013,New York City,23,Construction,117497
+2013,New York City,31-33,Manufacturing,75793
+2013,New York City,42,Wholesale Trade,132183
+2013,New York City,44-45,Retail Trade,336080
+2013,New York City,48-49,Transportation and Warehousing,103606
+2013,New York City,51,Information,163625
+2013,New York City,52,Finance and Insurance,310017
+2013,New York City,53,Real Estate and Rental and Leasing,119037
+2013,New York City,54,"Professional, Scientific, and Technical Services",351181
+2013,New York City,55,Management of Companies and Enterprises,65064
+2013,New York City,56,Administrative and Support and Waste Management and Remediation Services,198642
+2013,New York City,61,Educational Services,157499
+2013,New York City,62,Health Care and Social Assistance,611510
+2013,New York City,71,"Arts, Entertainment, and Recreation",76067
+2013,New York City,72,Accommodation and Food Services,304372
+2013,New York City,81,Other Services (except Public Administration),157211
+2013,New York City,90,Government,532103
+2013,New York City,99,Unclassified Industry,15046
+2013,North Country,11,"Agriculture, Forestry, Fishing and Hunting",2378
+2013,North Country,21,"Mining, Quarrying, and Oil and Gas Extraction",292
+2013,North Country,22,Utilities,637
+2013,North Country,23,Construction,5357
+2013,North Country,31-33,Manufacturing,10660
+2013,North Country,42,Wholesale Trade,2874
+2013,North Country,44-45,Retail Trade,21252
+2013,North Country,48-49,Transportation and Warehousing,3244
+2013,North Country,51,Information,1790
+2013,North Country,52,Finance and Insurance,2286
+2013,North Country,53,Real Estate and Rental and Leasing,1421
+2013,North Country,54,"Professional, Scientific, and Technical Services",2710
+2013,North Country,55,Management of Companies and Enterprises,1021
+2013,North Country,56,Administrative and Support and Waste Management and Remediation Services,3521
+2013,North Country,61,Educational Services,2959
+2013,North Country,62,Health Care and Social Assistance,22379
+2013,North Country,71,"Arts, Entertainment, and Recreation",1597
+2013,North Country,72,Accommodation and Food Services,14444
+2013,North Country,81,Other Services (except Public Administration),4493
+2013,North Country,90,Government,43656
+2013,North Country,99,Unclassified Industry,147
+2013,Southern Tier,11,"Agriculture, Forestry, Fishing and Hunting",1547
+2013,Southern Tier,21,"Mining, Quarrying, and Oil and Gas Extraction",937
+2013,Southern Tier,22,Utilities,1391
+2013,Southern Tier,23,Construction,8013
+2013,Southern Tier,31-33,Manufacturing,34669
+2013,Southern Tier,42,Wholesale Trade,6982
+2013,Southern Tier,44-45,Retail Trade,30785
+2013,Southern Tier,48-49,Transportation and Warehousing,4879
+2013,Southern Tier,51,Information,3852
+2013,Southern Tier,52,Finance and Insurance,7237
+2013,Southern Tier,53,Real Estate and Rental and Leasing,2503
+2013,Southern Tier,54,"Professional, Scientific, and Technical Services",9804
+2013,Southern Tier,55,Management of Companies and Enterprises,2154
+2013,Southern Tier,56,Administrative and Support and Waste Management and Remediation Services,10437
+2013,Southern Tier,61,Educational Services,17311
+2013,Southern Tier,62,Health Care and Social Assistance,37131
+2013,Southern Tier,71,"Arts, Entertainment, and Recreation",2697
+2013,Southern Tier,72,Accommodation and Food Services,20461
+2013,Southern Tier,81,Other Services (except Public Administration),8405
+2013,Southern Tier,90,Government,50761
+2013,Southern Tier,99,Unclassified Industry,223
+2013,Western New York,11,"Agriculture, Forestry, Fishing and Hunting",2296
+2013,Western New York,21,"Mining, Quarrying, and Oil and Gas Extraction",590
+2013,Western New York,22,Utilities,1926
+2013,Western New York,23,Construction,20827
+2013,Western New York,31-33,Manufacturing,66466
+2013,Western New York,42,Wholesale Trade,21837
+2013,Western New York,44-45,Retail Trade,73670
+2013,Western New York,48-49,Transportation and Warehousing,15122
+2013,Western New York,51,Information,8241
+2013,Western New York,52,Finance and Insurance,26324
+2013,Western New York,53,Real Estate and Rental and Leasing,7244
+2013,Western New York,54,"Professional, Scientific, and Technical Services",26633
+2013,Western New York,55,Management of Companies and Enterprises,14005
+2013,Western New York,56,Administrative and Support and Waste Management and Remediation Services,35347
+2013,Western New York,61,Educational Services,16106
+2013,Western New York,62,Health Care and Social Assistance,85404
+2013,Western New York,71,"Arts, Entertainment, and Recreation",8789
+2013,Western New York,72,Accommodation and Food Services,57423
+2013,Western New York,81,Other Services (except Public Administration),22445
+2013,Western New York,90,Government,107530
+2013,Western New York,99,Unclassified Industry,674
+2012,Capital Region,11,"Agriculture, Forestry, Fishing and Hunting",2244
+2012,Capital Region,21,"Mining, Quarrying, and Oil and Gas Extraction",671
+2012,Capital Region,22,Utilities,1839
+2012,Capital Region,23,Construction,19514
+2012,Capital Region,31-33,Manufacturing,30813
+2012,Capital Region,42,Wholesale Trade,14609
+2012,Capital Region,44-45,Retail Trade,58341
+2012,Capital Region,48-49,Transportation and Warehousing,11037
+2012,Capital Region,51,Information,9575
+2012,Capital Region,52,Finance and Insurance,21557
+2012,Capital Region,53,Real Estate and Rental and Leasing,5292
+2012,Capital Region,54,"Professional, Scientific, and Technical Services",31228
+2012,Capital Region,55,Management of Companies and Enterprises,7411
+2012,Capital Region,56,Administrative and Support and Waste Management and Remediation Services,18313
+2012,Capital Region,61,Educational Services,17349
+2012,Capital Region,62,Health Care and Social Assistance,72983
+2012,Capital Region,71,"Arts, Entertainment, and Recreation",7676
+2012,Capital Region,72,Accommodation and Food Services,38478
+2012,Capital Region,81,Other Services (except Public Administration),17888
+2012,Capital Region,90,Government,111475
+2012,Capital Region,99,Unclassified Industry,771
+2012,Central New York,11,"Agriculture, Forestry, Fishing and Hunting",2100
+2012,Central New York,21,"Mining, Quarrying, and Oil and Gas Extraction",214
+2012,Central New York,22,Utilities,3579
+2012,Central New York,23,Construction,13371
+2012,Central New York,31-33,Manufacturing,30698
+2012,Central New York,42,Wholesale Trade,15372
+2012,Central New York,44-45,Retail Trade,40964
+2012,Central New York,48-49,Transportation and Warehousing,9530
+2012,Central New York,51,Information,4859
+2012,Central New York,52,Finance and Insurance,13313
+2012,Central New York,53,Real Estate and Rental and Leasing,3904
+2012,Central New York,54,"Professional, Scientific, and Technical Services",17518
+2012,Central New York,55,Management of Companies and Enterprises,2938
+2012,Central New York,56,Administrative and Support and Waste Management and Remediation Services,14532
+2012,Central New York,61,Educational Services,11288
+2012,Central New York,62,Health Care and Social Assistance,47024
+2012,Central New York,71,"Arts, Entertainment, and Recreation",4836
+2012,Central New York,72,Accommodation and Food Services,28016
+2012,Central New York,81,Other Services (except Public Administration),11563
+2012,Central New York,90,Government,62031
+2012,Central New York,99,Unclassified Industry,456
+2012,Finger Lakes,11,"Agriculture, Forestry, Fishing and Hunting",6008
+2012,Finger Lakes,21,"Mining, Quarrying, and Oil and Gas Extraction",568
+2012,Finger Lakes,22,Utilities,1695
+2012,Finger Lakes,23,Construction,19143
+2012,Finger Lakes,31-33,Manufacturing,67352
+2012,Finger Lakes,42,Wholesale Trade,17942
+2012,Finger Lakes,44-45,Retail Trade,62033
+2012,Finger Lakes,48-49,Transportation and Warehousing,9206
+2012,Finger Lakes,51,Information,8773
+2012,Finger Lakes,52,Finance and Insurance,15144
+2012,Finger Lakes,53,Real Estate and Rental and Leasing,7217
+2012,Finger Lakes,54,"Professional, Scientific, and Technical Services",24889
+2012,Finger Lakes,55,Management of Companies and Enterprises,12178
+2012,Finger Lakes,56,Administrative and Support and Waste Management and Remediation Services,28426
+2012,Finger Lakes,61,Educational Services,26619
+2012,Finger Lakes,62,Health Care and Social Assistance,78690
+2012,Finger Lakes,71,"Arts, Entertainment, and Recreation",8018
+2012,Finger Lakes,72,Accommodation and Food Services,39364
+2012,Finger Lakes,81,Other Services (except Public Administration),19395
+2012,Finger Lakes,90,Government,87454
+2012,Finger Lakes,99,Unclassified Industry,758
+2012,Long Island,11,"Agriculture, Forestry, Fishing and Hunting",2547
+2012,Long Island,21,"Mining, Quarrying, and Oil and Gas Extraction",183
+2012,Long Island,22,Utilities,4023
+2012,Long Island,23,Construction,59837
+2012,Long Island,31-33,Manufacturing,73292
+2012,Long Island,42,Wholesale Trade,62492
+2012,Long Island,44-45,Retail Trade,155042
+2012,Long Island,48-49,Transportation and Warehousing,31623
+2012,Long Island,51,Information,23120
+2012,Long Island,52,Finance and Insurance,52531
+2012,Long Island,53,Real Estate and Rental and Leasing,16381
+2012,Long Island,54,"Professional, Scientific, and Technical Services",76315
+2012,Long Island,55,Management of Companies and Enterprises,14520
+2012,Long Island,56,Administrative and Support and Waste Management and Remediation Services,65882
+2012,Long Island,61,Educational Services,29921
+2012,Long Island,62,Health Care and Social Assistance,196851
+2012,Long Island,71,"Arts, Entertainment, and Recreation",21330
+2012,Long Island,72,Accommodation and Food Services,87523
+2012,Long Island,81,Other Services (except Public Administration),50064
+2012,Long Island,90,Government,179269
+2012,Long Island,99,Unclassified Industry,5169
+2012,Mid-Hudson,11,"Agriculture, Forestry, Fishing and Hunting",3233
+2012,Mid-Hudson,21,"Mining, Quarrying, and Oil and Gas Extraction",576
+2012,Mid-Hudson,22,Utilities,5385
+2012,Mid-Hudson,23,Construction,39260
+2012,Mid-Hudson,31-33,Manufacturing,47260
+2012,Mid-Hudson,42,Wholesale Trade,30711
+2012,Mid-Hudson,44-45,Retail Trade,115275
+2012,Mid-Hudson,48-49,Transportation and Warehousing,22160
+2012,Mid-Hudson,51,Information,17780
+2012,Mid-Hudson,52,Finance and Insurance,29407
+2012,Mid-Hudson,53,Real Estate and Rental and Leasing,14770
+2012,Mid-Hudson,54,"Professional, Scientific, and Technical Services",42456
+2012,Mid-Hudson,55,Management of Companies and Enterprises,12934
+2012,Mid-Hudson,56,Administrative and Support and Waste Management and Remediation Services,41706
+2012,Mid-Hudson,61,Educational Services,30402
+2012,Mid-Hudson,62,Health Care and Social Assistance,143037
+2012,Mid-Hudson,71,"Arts, Entertainment, and Recreation",16557
+2012,Mid-Hudson,72,Accommodation and Food Services,62698
+2012,Mid-Hudson,81,Other Services (except Public Administration),38579
+2012,Mid-Hudson,90,Government,149047
+2012,Mid-Hudson,99,Unclassified Industry,3201
+2012,Mohawk Valley,11,"Agriculture, Forestry, Fishing and Hunting",782
+2012,Mohawk Valley,21,"Mining, Quarrying, and Oil and Gas Extraction",289
+2012,Mohawk Valley,22,Utilities,650
+2012,Mohawk Valley,23,Construction,4933
+2012,Mohawk Valley,31-33,Manufacturing,17353
+2012,Mohawk Valley,42,Wholesale Trade,4601
+2012,Mohawk Valley,44-45,Retail Trade,22755
+2012,Mohawk Valley,48-49,Transportation and Warehousing,7524
+2012,Mohawk Valley,51,Information,2710
+2012,Mohawk Valley,52,Finance and Insurance,8036
+2012,Mohawk Valley,53,Real Estate and Rental and Leasing,1236
+2012,Mohawk Valley,54,"Professional, Scientific, and Technical Services",5308
+2012,Mohawk Valley,55,Management of Companies and Enterprises,1215
+2012,Mohawk Valley,56,Administrative and Support and Waste Management and Remediation Services,4772
+2012,Mohawk Valley,61,Educational Services,4282
+2012,Mohawk Valley,62,Health Care and Social Assistance,35918
+2012,Mohawk Valley,71,"Arts, Entertainment, and Recreation",2645
+2012,Mohawk Valley,72,Accommodation and Food Services,13896
+2012,Mohawk Valley,81,Other Services (except Public Administration),5456
+2012,Mohawk Valley,90,Government,44444
+2012,Mohawk Valley,99,Unclassified Industry,187
+2012,"New York, area not reported",11,"Agriculture, Forestry, Fishing and Hunting",123
+2012,"New York, area not reported",21,"Mining, Quarrying, and Oil and Gas Extraction",97
+2012,"New York, area not reported",22,Utilities,175
+2012,"New York, area not reported",23,Construction,10563
+2012,"New York, area not reported",31-33,Manufacturing,1039
+2012,"New York, area not reported",42,Wholesale Trade,25004
+2012,"New York, area not reported",44-45,Retail Trade,4655
+2012,"New York, area not reported",48-49,Transportation and Warehousing,2315
+2012,"New York, area not reported",51,Information,16034
+2012,"New York, area not reported",52,Finance and Insurance,6394
+2012,"New York, area not reported",53,Real Estate and Rental and Leasing,1561
+2012,"New York, area not reported",54,"Professional, Scientific, and Technical Services",19053
+2012,"New York, area not reported",55,Management of Companies and Enterprises,3530
+2012,"New York, area not reported",56,Administrative and Support and Waste Management and Remediation Services,23804
+2012,"New York, area not reported",61,Educational Services,2815
+2012,"New York, area not reported",62,Health Care and Social Assistance,4059
+2012,"New York, area not reported",71,"Arts, Entertainment, and Recreation",1419
+2012,"New York, area not reported",72,Accommodation and Food Services,4671
+2012,"New York, area not reported",81,Other Services (except Public Administration),4732
+2012,"New York, area not reported",90,Government,3038
+2012,"New York, area not reported",99,Unclassified Industry,4654
+2012,New York City,11,"Agriculture, Forestry, Fishing and Hunting",244
+2012,New York City,21,"Mining, Quarrying, and Oil and Gas Extraction",37
+2012,New York City,22,Utilities,14667
+2012,New York City,23,Construction,111594
+2012,New York City,31-33,Manufacturing,75844
+2012,New York City,42,Wholesale Trade,131060
+2012,New York City,44-45,Retail Trade,323407
+2012,New York City,48-49,Transportation and Warehousing,103866
+2012,New York City,51,Information,161533
+2012,New York City,52,Finance and Insurance,313272
+2012,New York City,53,Real Estate and Rental and Leasing,117034
+2012,New York City,54,"Professional, Scientific, and Technical Services",339135
+2012,New York City,55,Management of Companies and Enterprises,62984
+2012,New York City,56,Administrative and Support and Waste Management and Remediation Services,191147
+2012,New York City,61,Educational Services,153365
+2012,New York City,62,Health Care and Social Assistance,591686
+2012,New York City,71,"Arts, Entertainment, and Recreation",72128
+2012,New York City,72,Accommodation and Food Services,288200
+2012,New York City,81,Other Services (except Public Administration),152695
+2012,New York City,90,Government,531268
+2012,New York City,99,Unclassified Industry,16560
+2012,North Country,11,"Agriculture, Forestry, Fishing and Hunting",2267
+2012,North Country,21,"Mining, Quarrying, and Oil and Gas Extraction",276
+2012,North Country,22,Utilities,584
+2012,North Country,23,Construction,5534
+2012,North Country,31-33,Manufacturing,10610
+2012,North Country,42,Wholesale Trade,2858
+2012,North Country,44-45,Retail Trade,21235
+2012,North Country,48-49,Transportation and Warehousing,3276
+2012,North Country,51,Information,1794
+2012,North Country,52,Finance and Insurance,2487
+2012,North Country,53,Real Estate and Rental and Leasing,1414
+2012,North Country,54,"Professional, Scientific, and Technical Services",2716
+2012,North Country,55,Management of Companies and Enterprises,1018
+2012,North Country,56,Administrative and Support and Waste Management and Remediation Services,3329
+2012,North Country,61,Educational Services,2789
+2012,North Country,62,Health Care and Social Assistance,22450
+2012,North Country,71,"Arts, Entertainment, and Recreation",1562
+2012,North Country,72,Accommodation and Food Services,14105
+2012,North Country,81,Other Services (except Public Administration),4892
+2012,North Country,90,Government,44045
+2012,North Country,99,Unclassified Industry,139
+2012,Southern Tier,11,"Agriculture, Forestry, Fishing and Hunting",1431
+2012,Southern Tier,21,"Mining, Quarrying, and Oil and Gas Extraction",1143
+2012,Southern Tier,22,Utilities,1268
+2012,Southern Tier,23,Construction,8243
+2012,Southern Tier,31-33,Manufacturing,35333
+2012,Southern Tier,42,Wholesale Trade,7025
+2012,Southern Tier,44-45,Retail Trade,31140
+2012,Southern Tier,48-49,Transportation and Warehousing,5001
+2012,Southern Tier,51,Information,3655
+2012,Southern Tier,52,Finance and Insurance,7388
+2012,Southern Tier,53,Real Estate and Rental and Leasing,2463
+2012,Southern Tier,54,"Professional, Scientific, and Technical Services",9860
+2012,Southern Tier,55,Management of Companies and Enterprises,2113
+2012,Southern Tier,56,Administrative and Support and Waste Management and Remediation Services,9416
+2012,Southern Tier,61,Educational Services,17410
+2012,Southern Tier,62,Health Care and Social Assistance,37011
+2012,Southern Tier,71,"Arts, Entertainment, and Recreation",2771
+2012,Southern Tier,72,Accommodation and Food Services,20089
+2012,Southern Tier,81,Other Services (except Public Administration),8221
+2012,Southern Tier,90,Government,52098
+2012,Southern Tier,99,Unclassified Industry,266
+2012,Western New York,11,"Agriculture, Forestry, Fishing and Hunting",2164
+2012,Western New York,21,"Mining, Quarrying, and Oil and Gas Extraction",603
+2012,Western New York,22,Utilities,1978
+2012,Western New York,23,Construction,21047
+2012,Western New York,31-33,Manufacturing,67142
+2012,Western New York,42,Wholesale Trade,21906
+2012,Western New York,44-45,Retail Trade,74407
+2012,Western New York,48-49,Transportation and Warehousing,15092
+2012,Western New York,51,Information,8433
+2012,Western New York,52,Finance and Insurance,26485
+2012,Western New York,53,Real Estate and Rental and Leasing,7180
+2012,Western New York,54,"Professional, Scientific, and Technical Services",27140
+2012,Western New York,55,Management of Companies and Enterprises,13153
+2012,Western New York,56,Administrative and Support and Waste Management and Remediation Services,34623
+2012,Western New York,61,Educational Services,16390
+2012,Western New York,62,Health Care and Social Assistance,84768
+2012,Western New York,71,"Arts, Entertainment, and Recreation",8197
+2012,Western New York,72,Accommodation and Food Services,55568
+2012,Western New York,81,Other Services (except Public Administration),21877
+2012,Western New York,90,Government,108730
+2012,Western New York,99,Unclassified Industry,680
