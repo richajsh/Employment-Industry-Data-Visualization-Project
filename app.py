@@ -161,19 +161,28 @@ app.layout = html.Div(
         Input("name-filter","value")
     ],
 )
-def update_charts(Region, Industry, years, Name):
+def update_charts(Region, Industry, years, Name):    
     mask = [
-            ((data.Region == Region)
-            & (data.Industry == Industry)
-            & (data.Year.min == years[0])
-            & (data.Year.max == years[1]))
-            |((data2.Name == Name)
-            & (data2.TermYear >= data2.TermYear.min())
-            & (data2.TermYear <= data2.TermYear.max()))
+            (
+                (data.Region == Region)
+                    & (data.Industry == Industry)
+                    & (data.Year >= years[0]) 
+                    & (data.Year <= years[1])
+            )
+        ]
+
+
+    mask1 = [
+            (
+                (data2.Name == Name)
+                    & (data2.TermYear >= data2.TermYear.min())
+                    & (data2.TermYear <= data2.TermYear.max())
+            )
         ]
 
     filtered_data1 = data.loc[mask[0], :]
-    filtered_data2 = data2.loc[mask[0], :]
+    filtered_data2 = data2.loc[mask1[0], :]
+    
     price_chart_figure1 = {
         "data": [
             {
