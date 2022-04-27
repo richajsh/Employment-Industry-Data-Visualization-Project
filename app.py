@@ -24,15 +24,18 @@ df_2019['Jobs_Diff']= df_2019['Jobs']-df_2020['Jobs']
 df_2019.sort_values('Jobs_Diff', inplace=True)
 df_2019= df_2019.reset_index(drop= False)
 df_2019=df_2019.head(8)
-#external_stylesheets = [
-    #{
-        #"href": "https://fonts.googleapis.com/css2?"
-        #"family=Lato:wght@400;700&display=swap",
-        #"rel": "stylesheet",
-    #}
-#]
+# external_stylesheets = [
+#     {
+#         "href": "https://fonts.googleapis.com/css2?"
+#         "family=Lato:wght@400;700&display=swap",
+#         "rel": "stylesheet",
+#     }
+# ]
 
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+app = dash.Dash(__name__, 
+# external_stylesheets=[dbc.themes.BOOTSTRAP]
+)
+
 server = app.server
 app.title = ""
 
@@ -89,7 +92,7 @@ app.layout = dbc.Container(
                                                 className="dropdown",
                                             ),
                                         ],
-                                        style={"width":"50%"},
+                                        # style={"width":"50%"},
                                     ),
                                     html.Div(
                                                 [dbc.Label("Years"),
@@ -184,9 +187,9 @@ app.layout = dbc.Container(
                                     ),
                                 className="wrapper",
                             )],
-                        ),
+                        ), 
                     ),
-                    dbc.Col( html.Div(
+                    dbc.Col(html.Div(
                     children=[
                            html.Div(
                             dbc.Card(
@@ -207,17 +210,23 @@ app.layout = dbc.Container(
                         dcc.Graph(
                                     figure={
                                             'data': [
-                                                {'x': df_2019['Jobs_Diff'], 'y': df_2019['Industry'], 'type': 'bar', 'orientation':'h'},
+                                                {
+                                                    'y': df_2019['Jobs_Diff'], 
+                                                    'x': df_2019['Industry'], 
+                                                    'type': 'bar', 
+                                                    'orientation':'v'
+                                                },
                                             ],
                                             'layout': {
                                                 'title': 'Top 8 Industries with least Job losses in 2020',
                                                 "colorway": ["#17B897","#FFB606","3E76A4"],
-                                                "horizontal-align": "right"
+                                                "horizontal-align": "left"
                                             }
                                     }
-                                ), style={"width": "100%", "align": "right"},
+                                ), 
+                                # style={"width": "100%", "align": "left", 'display': 'inline-block'},
                         )]
-                     ), width=5
+                     ), 
                     ),
             ]
         )

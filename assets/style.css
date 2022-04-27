@@ -115,6 +115,9 @@
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+* {
+  font-family: 'Segoe UI';
+}
 .container {
     position: relative;
     width: 100%;
